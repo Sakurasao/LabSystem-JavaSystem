@@ -1,0 +1,613 @@
+=========================================================================
+ DAFTAR MAHASISWA & ASISTEN LABORATORIUM (PROTOTYPE/DEMONSTRASI)
+=========================================================================
+
+INFORMASI LOGIN ADMIN/ASLAB:
+- Username: NIM Aslab atau ID Aslab (misal: 201080200015 atau ASLAB-20-01)
+- Password: aslab
+
+INFORMASI LOGIN MAHASISWA:
+- Username/NIM: Menggunakan NIM masing-masing dari daftar di bawah (Password tidak diperlukan/Auto-login)
+
+
+-------------------------------------------------------------------------
+ ANGKATAN 2020 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     201080200001    Budi Sinaga                   IF-A2    089963736826   MAHASISWA
+2     201080200002    Citra Silalahi                IF-B2    081334923568   MAHASISWA
+3     201080200003    Dwi Saragih                   IF-C2    085672452065   MAHASISWA
+4     201080200004    Eko Girsang                   IF-A1    081229213808   MAHASISWA
+5     201080200005    Fajar Tambunan                IF-B1    082240216885   MAHASISWA
+6     201080200006    Gita Pakpahan                 IF-C1    085764544887   MAHASISWA
+7     201080200007    Hari Simatupang               IF-A2    089920248439   MAHASISWA
+8     201080200008    Indah Nugroho                 IF-B2    081376628788   MAHASISWA
+9     201080200009    Joko Ramadhan                 IF-C2    085687259297   MAHASISWA
+10    201080200010    Kartika Budiman               IF-A1    081213232130   MAHASISWA
+11    201080200011    Lukman Cahyono                IF-B1    082211541538   MAHASISWA
+12    201080200012    Mega Raharjo                  IF-C1    085747936739   MAHASISWA
+13    201080200013    Nur Hadi                      IF-A2    089931612353   MAHASISWA
+14    201080200014    Ony Hasanah                   IF-B2    081357473327   MAHASISWA
+15    201080200015    Putu Sari                     IF-C2    085635988201   ASISTEN LAB
+16    201080200016    Rian Fauzi                    IF-A1    081210326057   MAHASISWA
+17    201080200017    Siti Wijaya                   IF-B1    082231055173   MAHASISWA
+18    201080200018    Teguh Siregar                 IF-C1    085761341468   MAHASISWA
+19    201080200019    Utami Harahap                 IF-A2    089952355972   MAHASISWA
+20    201080200020    Vera Hutapea                  IF-B2    081374787785   MAHASISWA
+21    201080200021    Wawan Panjaitan               IF-C2    085699169032   MAHASISWA
+22    201080200022    Yeni Sitorus                  IF-A1    081249034586   MAHASISWA
+23    201080200023    Zainal Marpaung               IF-B1    082237091715   MAHASISWA
+24    201080200024    Aditya Ambarita               IF-C1    085713880138   MAHASISWA
+25    201080200025    Bayu Sipayung                 IF-A2    089950077526   MAHASISWA
+26    201080200026    Candra Sumbayak               IF-B2    081364444957   ASISTEN LAB
+27    201080200027    Diana Manik                   IF-C2    085638979334   MAHASISWA
+28    201080200028    Elga Silaen                   IF-A1    081214460993   MAHASISWA
+29    201080200029    Farhan Sitompul               IF-B1    082215969506   MAHASISWA
+30    201080200030    Guntur Pratama                IF-C1    085784801002   MAHASISWA
+31    201080200031    Hesti Wibowo                  IF-A2    089974818654   MAHASISWA
+32    201080200032    Irma Gunawan                  IF-B2    081321018776   MAHASISWA
+33    201080200033    Junaedi Susanto               IF-C2    085691866730   MAHASISWA
+34    201080200034    Kurnia Utomo                  IF-A1    081226526203   MAHASISWA
+35    201080200035    Lestari Hartono               IF-B1    082239156605   MAHASISWA
+36    201080200036    Maulana Fitriani              IF-C1    085761010539   MAHASISWA
+37    201080200037    Nanda Rahmawati               IF-A2    089926564088   MAHASISWA
+38    201080200038    Oki Hidayah                   IF-B2    081323077931   MAHASISWA
+39    201080200039    Pratama Lestari               IF-C2    085639292376   MAHASISWA
+40    201080200040    Riza Kusuma                   IF-A1    081246769149   MAHASISWA
+41    201080200041    Saputra Ginting               IF-B1    082225624480   MAHASISWA
+42    201080200042    Tri Tanjung                   IF-C1    085772318615   MAHASISWA
+43    201080200043    Wahyu Simanjuntak             IF-A2    089919501999   ASISTEN LAB
+44    201080200044    Yulia Situmorang              IF-B2    081365644809   MAHASISWA
+45    201080200045    Zulfikar Nainggolan           IF-C2    085690711106   MAHASISWA
+46    201080200046    Hanif Manurung                IF-A1    081221443476   MAHASISWA
+47    201080200047    Kevin Purba                   IF-B1    082260285886   MAHASISWA
+48    201080200048    Aldo Damanik                  IF-C1    085789750317   ASISTEN LAB
+49    201080200049    Bella Haloho                  IF-A2    089979334552   MAHASISWA
+50    201080200050    Daniel Sibarani               IF-B2    081389440462   MAHASISWA
+51    201080200051    Elsa Sidabutar                IF-C2    085675672145   MAHASISWA
+52    201080200052    Felix Hidayat                 IF-A1    081293467861   MAHASISWA
+53    201080200053    Grace Setiawan                IF-B1    082293918421   MAHASISWA
+54    201080200054    Hendra Saputro                IF-C1    085766504269   MAHASISWA
+55    201080200055    Ivan Kurniawan                IF-A2    089999774658   MAHASISWA
+56    201080200056    Jessica Prasetyo              IF-B2    081323518810   MAHASISWA
+57    201080200057    Kenji Subagyo                 IF-C2    085692507723   MAHASISWA
+58    201080200058    Lisa Wulandari                IF-A1    081266563286   MAHASISWA
+59    201080200059    Mario Astuti                  IF-B1    082258967993   MAHASISWA
+60    201080200060    Nadia Safitri                 IF-C1    085783651195   MAHASISWA
+61    201080200061    Oscar Santoso                 IF-A2    089979415758   MAHASISWA
+62    201080200062    Putri Saputra                 IF-B2    081336514326   MAHASISWA
+63    201080200063    Randy Nasution                IF-C2    085637071726   MAHASISWA
+64    201080200064    Siska Lubis                   IF-A1    081213458483   MAHASISWA
+65    201080200065    Tedy Pangaribuan              IF-B1    082244518797   MAHASISWA
+66    201080200066    Ulfa Siahaan                  IF-C1    085761474058   MAHASISWA
+67    201080200067    Vina Nababan                  IF-A2    089997346265   MAHASISWA
+68    201080200068    Wendy Sinaga                  IF-B2    081310366458   MAHASISWA
+69    201080200069    Yanto Silalahi                IF-C2    085681885918   MAHASISWA
+70    201080200070    Ahmad Saragih                 IF-A1    081270607188   MAHASISWA
+71    201080200071    Budi Girsang                  IF-B1    082213616169   MAHASISWA
+72    201080200072    Citra Tambunan                IF-C1    085734175703   MAHASISWA
+73    201080200073    Dwi Pakpahan                  IF-A2    089968257578   ASISTEN LAB
+74    201080200074    Eko Simatupang                IF-B2    081374189192   MAHASISWA
+75    201080200075    Fajar Nugroho                 IF-C2    085647193371   MAHASISWA
+76    201080200076    Gita Ramadhan                 IF-A1    081291053097   ASISTEN LAB
+77    201080200077    Hari Budiman                  IF-B1    082235924953   MAHASISWA
+78    201080200078    Indah Cahyono                 IF-C1    085712497208   MAHASISWA
+79    201080200079    Joko Raharjo                  IF-A2    089927256104   ASISTEN LAB
+80    201080200080    Kartika Hadi                  IF-B2    081394493851   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2021 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     211080200001    Indah Manik                   IF-B2    081324479204   MAHASISWA
+2     211080200002    Joko Silaen                   IF-C2    085650341228   MAHASISWA
+3     211080200003    Kartika Sitompul              IF-A1    081233853668   MAHASISWA
+4     211080200004    Lukman Pratama                IF-B1    082296885126   MAHASISWA
+5     211080200005    Mega Wibowo                   IF-C1    085716758926   MAHASISWA
+6     211080200006    Nur Gunawan                   IF-A2    089931307574   MAHASISWA
+7     211080200007    Ony Susanto                   IF-B2    081351312052   MAHASISWA
+8     211080200008    Putu Utomo                    IF-C2    085625107696   MAHASISWA
+9     211080200009    Rian Hartono                  IF-A1    081226358261   MAHASISWA
+10    211080200010    Siti Fitriani                 IF-B1    082266913810   MAHASISWA
+11    211080200011    Teguh Rahmawati               IF-C1    085710593525   MAHASISWA
+12    211080200012    Utami Hidayah                 IF-A2    089941064561   MAHASISWA
+13    211080200013    Vera Lestari                  IF-B2    081393556354   MAHASISWA
+14    211080200014    Wawan Kusuma                  IF-C2    085696760870   MAHASISWA
+15    211080200015    Yeni Ginting                  IF-A1    081287385772   MAHASISWA
+16    211080200016    Zainal Tanjung                IF-B1    082259464350   MAHASISWA
+17    211080200017    Aditya Simanjuntak            IF-C1    085788883205   MAHASISWA
+18    211080200018    Bayu Situmorang               IF-A2    089936505601   MAHASISWA
+19    211080200019    Candra Nainggolan             IF-B2    081344293971   MAHASISWA
+20    211080200020    Diana Manurung                IF-C2    085658897084   MAHASISWA
+21    211080200021    Elga Purba                    IF-A1    081216621365   MAHASISWA
+22    211080200022    Farhan Damanik                IF-B1    082292201803   MAHASISWA
+23    211080200023    Guntur Haloho                 IF-C1    085766461158   MAHASISWA
+24    211080200024    Hesti Sibarani                IF-A2    089930542163   MAHASISWA
+25    211080200025    Irma Sidabutar                IF-B2    081318159511   MAHASISWA
+26    211080200026    Junaedi Hidayat               IF-C2    085613537631   ASISTEN LAB
+27    211080200027    Kurnia Setiawan               IF-A1    081267048855   MAHASISWA
+28    211080200028    Lestari Saputro               IF-B1    082289105423   MAHASISWA
+29    211080200029    Maulana Kurniawan             IF-C1    085790838849   MAHASISWA
+30    211080200030    Nanda Prasetyo                IF-A2    089930183775   ASISTEN LAB
+31    211080200031    Oki Subagyo                   IF-B2    081397463597   MAHASISWA
+32    211080200032    Pratama Wulandari             IF-C2    085626139204   MAHASISWA
+33    211080200033    Riza Astuti                   IF-A1    081216474560   MAHASISWA
+34    211080200034    Saputra Safitri               IF-B1    082240140909   MAHASISWA
+35    211080200035    Tri Santoso                   IF-C1    085720621959   MAHASISWA
+36    211080200036    Wahyu Saputra                 IF-A2    089925417083   MAHASISWA
+37    211080200037    Yulia Nasution                IF-B2    081330035962   MAHASISWA
+38    211080200038    Zulfikar Lubis                IF-C2    085633843425   MAHASISWA
+39    211080200039    Hanif Pangaribuan             IF-A1    081282235082   MAHASISWA
+40    211080200040    Kevin Siahaan                 IF-B1    082224902306   MAHASISWA
+41    211080200041    Aldo Nababan                  IF-C1    085726753922   ASISTEN LAB
+42    211080200042    Bella Sinaga                  IF-A2    089958442191   MAHASISWA
+43    211080200043    Daniel Silalahi               IF-B2    081323666965   MAHASISWA
+44    211080200044    Elsa Saragih                  IF-C2    085633749865   MAHASISWA
+45    211080200045    Felix Girsang                 IF-A1    081281821077   MAHASISWA
+46    211080200046    Grace Tambunan                IF-B1    082288971769   MAHASISWA
+47    211080200047    Hendra Pakpahan               IF-C1    085754582544   MAHASISWA
+48    211080200048    Ivan Simatupang               IF-A2    089974832609   MAHASISWA
+49    211080200049    Jessica Nugroho               IF-B2    081378232554   MAHASISWA
+50    211080200050    Kenji Ramadhan                IF-C2    085614286689   MAHASISWA
+51    211080200051    Lisa Budiman                  IF-A1    081231882372   MAHASISWA
+52    211080200052    Mario Cahyono                 IF-B1    082244340647   MAHASISWA
+53    211080200053    Nadia Raharjo                 IF-C1    085721673794   MAHASISWA
+54    211080200054    Oscar Hadi                    IF-A2    089934910308   MAHASISWA
+55    211080200055    Putri Hasanah                 IF-B2    081312490832   MAHASISWA
+56    211080200056    Randy Sari                    IF-C2    085655322699   MAHASISWA
+57    211080200057    Siska Fauzi                   IF-A1    081280728889   MAHASISWA
+58    211080200058    Tedy Wijaya                   IF-B1    082286437437   MAHASISWA
+59    211080200059    Ulfa Siregar                  IF-C1    085746015870   MAHASISWA
+60    211080200060    Vina Harahap                  IF-A2    089934979712   ASISTEN LAB
+61    211080200061    Wendy Hutapea                 IF-B2    081334275143   MAHASISWA
+62    211080200062    Yanto Panjaitan               IF-C2    085672444869   ASISTEN LAB
+63    211080200063    Ahmad Sitorus                 IF-A1    081225124986   MAHASISWA
+64    211080200064    Budi Marpaung                 IF-B1    082297301787   MAHASISWA
+65    211080200065    Citra Ambarita                IF-C1    085734605175   MAHASISWA
+66    211080200066    Dwi Sipayung                  IF-A2    089975559025   ASISTEN LAB
+67    211080200067    Eko Sumbayak                  IF-B2    081312677509   MAHASISWA
+68    211080200068    Fajar Manik                   IF-C2    085672161428   MAHASISWA
+69    211080200069    Gita Silaen                   IF-A1    081269338114   MAHASISWA
+70    211080200070    Hari Sitompul                 IF-B1    082296655252   MAHASISWA
+71    211080200071    Indah Pratama                 IF-C1    085757035677   MAHASISWA
+72    211080200072    Joko Wibowo                   IF-A2    089965767008   MAHASISWA
+73    211080200073    Kartika Gunawan               IF-B2    081325358255   MAHASISWA
+74    211080200074    Lukman Susanto                IF-C2    085672803623   MAHASISWA
+75    211080200075    Mega Utomo                    IF-A1    081218676726   ASISTEN LAB
+76    211080200076    Nur Hartono                   IF-B1    082210334703   MAHASISWA
+77    211080200077    Ony Fitriani                  IF-C1    085796754258   MAHASISWA
+78    211080200078    Putu Rahmawati                IF-A2    089986339983   MAHASISWA
+79    211080200079    Rian Hidayah                  IF-B2    081383680356   MAHASISWA
+80    211080200080    Siti Lestari                  IF-C2    085640459909   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2022 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     221080200001    Putu Setiawan                 IF-C2    085669121655   ASISTEN LAB
+2     221080200002    Rian Saputro                  IF-A1    081281539199   MAHASISWA
+3     221080200003    Siti Kurniawan                IF-B1    082293334229   MAHASISWA
+4     221080200004    Teguh Prasetyo                IF-C1    085795227538   MAHASISWA
+5     221080200005    Utami Subagyo                 IF-A2    089964220088   ASISTEN LAB
+6     221080200006    Vera Wulandari                IF-B2    081369997772   MAHASISWA
+7     221080200007    Wawan Astuti                  IF-C2    085646940877   MAHASISWA
+8     221080200008    Yeni Safitri                  IF-A1    081287789073   MAHASISWA
+9     221080200009    Zainal Santoso                IF-B1    082264522852   MAHASISWA
+10    221080200010    Aditya Saputra                IF-C1    085721947657   MAHASISWA
+11    221080200011    Bayu Nasution                 IF-A2    089922306131   MAHASISWA
+12    221080200012    Candra Lubis                  IF-B2    081350491822   MAHASISWA
+13    221080200013    Diana Pangaribuan             IF-C2    085643168733   MAHASISWA
+14    221080200014    Elga Siahaan                  IF-A1    081238321074   MAHASISWA
+15    221080200015    Farhan Nababan                IF-B1    082219458832   MAHASISWA
+16    221080200016    Guntur Sinaga                 IF-C1    085745212224   MAHASISWA
+17    221080200017    Hesti Silalahi                IF-A2    089961134908   MAHASISWA
+18    221080200018    Irma Saragih                  IF-B2    081338901334   MAHASISWA
+19    221080200019    Junaedi Girsang               IF-C2    085626627806   MAHASISWA
+20    221080200020    Kurnia Tambunan               IF-A1    081257422313   MAHASISWA
+21    221080200021    Lestari Pakpahan              IF-B1    082298022056   MAHASISWA
+22    221080200022    Maulana Simatupang            IF-C1    085752163800   MAHASISWA
+23    221080200023    Nanda Nugroho                 IF-A2    089952857912   MAHASISWA
+24    221080200024    Oki Ramadhan                  IF-B2    081363711660   MAHASISWA
+25    221080200025    Pratama Budiman               IF-C2    085643495949   MAHASISWA
+26    221080200026    Riza Cahyono                  IF-A1    081270528535   MAHASISWA
+27    221080200027    Saputra Raharjo               IF-B1    082263124704   MAHASISWA
+28    221080200028    Tri Hadi                      IF-C1    085767745874   MAHASISWA
+29    221080200029    Wahyu Hasanah                 IF-A2    089931552698   MAHASISWA
+30    221080200030    Yulia Sari                    IF-B2    081339677760   MAHASISWA
+31    221080200031    Zulfikar Fauzi                IF-C2    085613712674   MAHASISWA
+32    221080200032    Hanif Wijaya                  IF-A1    081280054831   MAHASISWA
+33    221080200033    Kevin Siregar                 IF-B1    082282458524   MAHASISWA
+34    221080200034    Aldo Harahap                  IF-C1    085778890808   ASISTEN LAB
+35    221080200035    Bella Hutapea                 IF-A2    089962479829   MAHASISWA
+36    221080200036    Daniel Panjaitan              IF-B2    081381536902   MAHASISWA
+37    221080200037    Elsa Sitorus                  IF-C2    085615406886   MAHASISWA
+38    221080200038    Felix Marpaung                IF-A1    081257045787   MAHASISWA
+39    221080200039    Grace Ambarita                IF-B1    082232650212   MAHASISWA
+40    221080200040    Hendra Sipayung               IF-C1    085783762508   MAHASISWA
+41    221080200041    Ivan Sumbayak                 IF-A2    089985138504   MAHASISWA
+42    221080200042    Jessica Manik                 IF-B2    081342594787   MAHASISWA
+43    221080200043    Kenji Silaen                  IF-C2    085692260028   MAHASISWA
+44    221080200044    Lisa Sitompul                 IF-A1    081266813296   MAHASISWA
+45    221080200045    Mario Pratama                 IF-B1    082265600259   MAHASISWA
+46    221080200046    Nadia Wibowo                  IF-C1    085770602684   MAHASISWA
+47    221080200047    Oscar Gunawan                 IF-A2    089995744522   MAHASISWA
+48    221080200048    Putri Susanto                 IF-B2    081313244736   MAHASISWA
+49    221080200049    Randy Utomo                   IF-C2    085676384987   MAHASISWA
+50    221080200050    Siska Hartono                 IF-A1    081241404836   MAHASISWA
+51    221080200051    Tedy Fitriani                 IF-B1    082247374711   MAHASISWA
+52    221080200052    Ulfa Rahmawati                IF-C1    085758109106   MAHASISWA
+53    221080200053    Vina Hidayah                  IF-A2    089933796178   ASISTEN LAB
+54    221080200054    Wendy Lestari                 IF-B2    081356779992   MAHASISWA
+55    221080200055    Yanto Kusuma                  IF-C2    085641316771   MAHASISWA
+56    221080200056    Ahmad Ginting                 IF-A1    081246300702   MAHASISWA
+57    221080200057    Budi Tanjung                  IF-B1    082270539233   MAHASISWA
+58    221080200058    Citra Simanjuntak             IF-C1    085741422213   MAHASISWA
+59    221080200059    Dwi Situmorang                IF-A2    089937527014   MAHASISWA
+60    221080200060    Eko Nainggolan                IF-B2    081347617321   ASISTEN LAB
+61    221080200061    Fajar Manurung                IF-C2    085619979279   MAHASISWA
+62    221080200062    Gita Purba                    IF-A1    081239340138   MAHASISWA
+63    221080200063    Hari Damanik                  IF-B1    082239028637   ASISTEN LAB
+64    221080200064    Indah Haloho                  IF-C1    085755007848   MAHASISWA
+65    221080200065    Joko Sibarani                 IF-A2    089992901965   MAHASISWA
+66    221080200066    Kartika Sidabutar             IF-B2    081387874856   MAHASISWA
+67    221080200067    Lukman Hidayat                IF-C2    085687471517   MAHASISWA
+68    221080200068    Mega Setiawan                 IF-A1    081283320439   ASISTEN LAB
+69    221080200069    Nur Saputro                   IF-B1    082242237860   MAHASISWA
+70    221080200070    Ony Kurniawan                 IF-C1    085748034033   MAHASISWA
+71    221080200071    Putu Prasetyo                 IF-A2    089961860840   MAHASISWA
+72    221080200072    Rian Subagyo                  IF-B2    081362964191   MAHASISWA
+73    221080200073    Siti Wulandari                IF-C2    085657926542   MAHASISWA
+74    221080200074    Teguh Astuti                  IF-A1    081229598098   MAHASISWA
+75    221080200075    Utami Safitri                 IF-B1    082260733835   MAHASISWA
+76    221080200076    Vera Santoso                  IF-C1    085753071737   MAHASISWA
+77    221080200077    Wawan Saputra                 IF-A2    089938589394   MAHASISWA
+78    221080200078    Yeni Nasution                 IF-B2    081380552127   MAHASISWA
+79    221080200079    Zainal Lubis                  IF-C2    085635717736   MAHASISWA
+80    221080200080    Aditya Pangaribuan            IF-A1    081222709868   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2023 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     231080200001    Yeni Raharjo                  IF-A1    081240944477   MAHASISWA
+2     231080200002    Zainal Hadi                   IF-B1    082251330907   MAHASISWA
+3     231080200003    Aditya Hasanah                IF-C1    085736030585   MAHASISWA
+4     231080200004    Bayu Sari                     IF-A2    089999867549   MAHASISWA
+5     231080200005    Candra Fauzi                  IF-B2    081395772991   MAHASISWA
+6     231080200006    Diana Wijaya                  IF-C2    085629583894   MAHASISWA
+7     231080200007    Elga Siregar                  IF-A1    081246935709   MAHASISWA
+8     231080200008    Farhan Harahap                IF-B1    082253329618   MAHASISWA
+9     231080200009    Guntur Hutapea                IF-C1    085757417052   MAHASISWA
+10    231080200010    Hesti Panjaitan               IF-A2    089958313530   MAHASISWA
+11    231080200011    Irma Sitorus                  IF-B2    081383426328   MAHASISWA
+12    231080200012    Junaedi Marpaung              IF-C2    085640689846   MAHASISWA
+13    231080200013    Kurnia Ambarita               IF-A1    081288218722   MAHASISWA
+14    231080200014    Lestari Sipayung              IF-B1    082236809320   MAHASISWA
+15    231080200015    Maulana Sumbayak              IF-C1    085765931675   MAHASISWA
+16    231080200016    Nanda Manik                   IF-A2    089930710590   ASISTEN LAB
+17    231080200017    Oki Silaen                    IF-B2    081394321723   MAHASISWA
+18    231080200018    Pratama Sitompul              IF-C2    085687731705   MAHASISWA
+19    231080200019    Riza Pratama                  IF-A1    081268977040   MAHASISWA
+20    231080200020    Saputra Wibowo                IF-B1    082239102205   ASISTEN LAB
+21    231080200021    Tri Gunawan                   IF-C1    085765790155   MAHASISWA
+22    231080200022    Wahyu Susanto                 IF-A2    089917240289   MAHASISWA
+23    231080200023    Yulia Utomo                   IF-B2    081323023784   MAHASISWA
+24    231080200024    Zulfikar Hartono              IF-C2    085683773749   MAHASISWA
+25    231080200025    Hanif Fitriani                IF-A1    081290628469   MAHASISWA
+26    231080200026    Kevin Rahmawati               IF-B1    082220034918   MAHASISWA
+27    231080200027    Aldo Hidayah                  IF-C1    085724926480   MAHASISWA
+28    231080200028    Bella Lestari                 IF-A2    089937409059   MAHASISWA
+29    231080200029    Daniel Kusuma                 IF-B2    081338696098   MAHASISWA
+30    231080200030    Elsa Ginting                  IF-C2    085662058270   MAHASISWA
+31    231080200031    Felix Tanjung                 IF-A1    081255535500   MAHASISWA
+32    231080200032    Grace Simanjuntak             IF-B1    082260534379   MAHASISWA
+33    231080200033    Hendra Situmorang             IF-C1    085765755117   ASISTEN LAB
+34    231080200034    Ivan Nainggolan               IF-A2    089937178066   MAHASISWA
+35    231080200035    Jessica Manurung              IF-B2    081363025011   MAHASISWA
+36    231080200036    Kenji Purba                   IF-C2    085638402378   MAHASISWA
+37    231080200037    Lisa Damanik                  IF-A1    081262826689   MAHASISWA
+38    231080200038    Mario Haloho                  IF-B1    082258413243   MAHASISWA
+39    231080200039    Nadia Sibarani                IF-C1    085711169025   MAHASISWA
+40    231080200040    Oscar Sidabutar               IF-A2    089916806015   MAHASISWA
+41    231080200041    Putri Hidayat                 IF-B2    081359693593   MAHASISWA
+42    231080200042    Randy Setiawan                IF-C2    085634323042   MAHASISWA
+43    231080200043    Siska Saputro                 IF-A1    081264515791   MAHASISWA
+44    231080200044    Tedy Kurniawan                IF-B1    082254659497   MAHASISWA
+45    231080200045    Ulfa Prasetyo                 IF-C1    085760534109   MAHASISWA
+46    231080200046    Vina Subagyo                  IF-A2    089957660541   MAHASISWA
+47    231080200047    Wendy Wulandari               IF-B2    081320415072   MAHASISWA
+48    231080200048    Yanto Astuti                  IF-C2    085666518920   MAHASISWA
+49    231080200049    Ahmad Safitri                 IF-A1    081288023243   MAHASISWA
+50    231080200050    Budi Santoso                  IF-B1    082271133056   MAHASISWA
+51    231080200051    Citra Saputra                 IF-C1    085720738711   MAHASISWA
+52    231080200052    Dwi Nasution                  IF-A2    089924132812   MAHASISWA
+53    231080200053    Eko Lubis                     IF-B2    081383355078   ASISTEN LAB
+54    231080200054    Fajar Pangaribuan             IF-C2    085697992452   MAHASISWA
+55    231080200055    Gita Siahaan                  IF-A1    081281554211   ASISTEN LAB
+56    231080200056    Hari Nababan                  IF-B1    082228657038   MAHASISWA
+57    231080200057    Indah Sinaga                  IF-C1    085760000168   MAHASISWA
+58    231080200058    Joko Silalahi                 IF-A2    089944913261   MAHASISWA
+59    231080200059    Kartika Saragih               IF-B2    081389246981   MAHASISWA
+60    231080200060    Lukman Girsang                IF-C2    085654787987   MAHASISWA
+61    231080200061    Mega Tambunan                 IF-A1    081219453494   MAHASISWA
+62    231080200062    Nur Pakpahan                  IF-B1    082283284094   MAHASISWA
+63    231080200063    Ony Simatupang                IF-C1    085734991595   MAHASISWA
+64    231080200064    Putu Nugroho                  IF-A2    089964643453   MAHASISWA
+65    231080200065    Rian Ramadhan                 IF-B2    081394301885   MAHASISWA
+66    231080200066    Siti Budiman                  IF-C2    085688359284   MAHASISWA
+67    231080200067    Teguh Cahyono                 IF-A1    081222120098   MAHASISWA
+68    231080200068    Utami Raharjo                 IF-B1    082255119095   MAHASISWA
+69    231080200069    Vera Hadi                     IF-C1    085797037203   MAHASISWA
+70    231080200070    Wawan Hasanah                 IF-A2    089976464386   MAHASISWA
+71    231080200071    Yeni Sari                     IF-B2    081327074454   MAHASISWA
+72    231080200072    Zainal Fauzi                  IF-C2    085674197301   MAHASISWA
+73    231080200073    Aditya Wijaya                 IF-A1    081252994791   MAHASISWA
+74    231080200074    Bayu Siregar                  IF-B1    082245296375   MAHASISWA
+75    231080200075    Candra Harahap                IF-C1    085791095451   ASISTEN LAB
+76    231080200076    Diana Hutapea                 IF-A2    089965827274   MAHASISWA
+77    231080200077    Elga Panjaitan                IF-B2    081317586053   MAHASISWA
+78    231080200078    Farhan Sitorus                IF-C2    085658585244   ASISTEN LAB
+79    231080200079    Guntur Marpaung               IF-A1    081247759944   MAHASISWA
+80    231080200080    Hesti Ambarita                IF-B1    082284552613   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2024 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     241080200001    Farhan Hidayah                IF-B1    082299624946   ASISTEN LAB
+2     241080200002    Guntur Lestari                IF-C1    085717931843   MAHASISWA
+3     241080200003    Hesti Kusuma                  IF-A2    089968423568   ASISTEN LAB
+4     241080200004    Irma Ginting                  IF-B2    081340958935   MAHASISWA
+5     241080200005    Junaedi Tanjung               IF-C2    085677024028   MAHASISWA
+6     241080200006    Kurnia Simanjuntak            IF-A1    081259752117   MAHASISWA
+7     241080200007    Lestari Situmorang            IF-B1    082244082286   MAHASISWA
+8     241080200008    Maulana Nainggolan            IF-C1    085740688502   MAHASISWA
+9     241080200009    Nanda Manurung                IF-A2    089981232229   MAHASISWA
+10    241080200010    Oki Purba                     IF-B2    081393580963   MAHASISWA
+11    241080200011    Pratama Damanik               IF-C2    085622073781   MAHASISWA
+12    241080200012    Riza Haloho                   IF-A1    081249520437   MAHASISWA
+13    241080200013    Saputra Sibarani              IF-B1    082269080835   MAHASISWA
+14    241080200014    Tri Sidabutar                 IF-C1    085764433170   MAHASISWA
+15    241080200015    Wahyu Hidayat                 IF-A2    089999760315   MAHASISWA
+16    241080200016    Yulia Setiawan                IF-B2    081334630233   ASISTEN LAB
+17    241080200017    Zulfikar Saputro              IF-C2    085643482078   ASISTEN LAB
+18    241080200018    Hanif Kurniawan               IF-A1    081275646912   MAHASISWA
+19    241080200019    Kevin Prasetyo                IF-B1    082239485962   MAHASISWA
+20    241080200020    Aldo Subagyo                  IF-C1    085715726301   MAHASISWA
+21    241080200021    Bella Wulandari               IF-A2    089948215493   MAHASISWA
+22    241080200022    Daniel Astuti                 IF-B2    081327488435   MAHASISWA
+23    241080200023    Elsa Safitri                  IF-C2    085688018534   MAHASISWA
+24    241080200024    Felix Santoso                 IF-A1    081226438805   MAHASISWA
+25    241080200025    Grace Saputra                 IF-B1    082242815289   MAHASISWA
+26    241080200026    Hendra Nasution               IF-C1    085756849758   MAHASISWA
+27    241080200027    Ivan Lubis                    IF-A2    089966481511   MAHASISWA
+28    241080200028    Jessica Pangaribuan           IF-B2    081395680021   MAHASISWA
+29    241080200029    Kenji Siahaan                 IF-C2    085651895569   MAHASISWA
+30    241080200030    Lisa Nababan                  IF-A1    081213919389   MAHASISWA
+31    241080200031    Mario Sinaga                  IF-B1    082259459386   MAHASISWA
+32    241080200032    Nadia Silalahi                IF-C1    085770675539   MAHASISWA
+33    241080200033    Oscar Saragih                 IF-A2    089936640187   MAHASISWA
+34    241080200034    Putri Girsang                 IF-B2    081377167152   MAHASISWA
+35    241080200035    Randy Tambunan                IF-C2    085623677064   MAHASISWA
+36    241080200036    Siska Pakpahan                IF-A1    081229028156   MAHASISWA
+37    241080200037    Tedy Simatupang               IF-B1    082261369661   MAHASISWA
+38    241080200038    Ulfa Nugroho                  IF-C1    085730934186   MAHASISWA
+39    241080200039    Vina Ramadhan                 IF-A2    089966024621   MAHASISWA
+40    241080200040    Wendy Budiman                 IF-B2    081335868692   MAHASISWA
+41    241080200041    Yanto Cahyono                 IF-C2    085679906864   MAHASISWA
+42    241080200042    Ahmad Raharjo                 IF-A1    081217450099   MAHASISWA
+43    241080200043    Budi Hadi                     IF-B1    082232417097   MAHASISWA
+44    241080200044    Citra Hasanah                 IF-C1    085763232662   MAHASISWA
+45    241080200045    Dwi Sari                      IF-A2    089920538675   MAHASISWA
+46    241080200046    Eko Fauzi                     IF-B2    081325425809   MAHASISWA
+47    241080200047    Fajar Wijaya                  IF-C2    085630418005   MAHASISWA
+48    241080200048    Gita Siregar                  IF-A1    081292174558   ASISTEN LAB
+49    241080200049    Hari Harahap                  IF-B1    082222792516   MAHASISWA
+50    241080200050    Indah Hutapea                 IF-C1    085786266801   MAHASISWA
+51    241080200051    Joko Panjaitan                IF-A2    089969395419   MAHASISWA
+52    241080200052    Kartika Sitorus               IF-B2    081378584049   MAHASISWA
+53    241080200053    Lukman Marpaung               IF-C2    085667461637   MAHASISWA
+54    241080200054    Mega Ambarita                 IF-A1    081225576406   MAHASISWA
+55    241080200055    Nur Sipayung                  IF-B1    082296875489   MAHASISWA
+56    241080200056    Ony Sumbayak                  IF-C1    085749663012   MAHASISWA
+57    241080200057    Putu Manik                    IF-A2    089989628974   MAHASISWA
+58    241080200058    Rian Silaen                   IF-B2    081376842324   ASISTEN LAB
+59    241080200059    Siti Sitompul                 IF-C2    085622438223   MAHASISWA
+60    241080200060    Teguh Pratama                 IF-A1    081279973880   MAHASISWA
+61    241080200061    Utami Wibowo                  IF-B1    082256612397   MAHASISWA
+62    241080200062    Vera Gunawan                  IF-C1    085722666618   MAHASISWA
+63    241080200063    Wawan Susanto                 IF-A2    089933734941   MAHASISWA
+64    241080200064    Yeni Utomo                    IF-B2    081313403684   MAHASISWA
+65    241080200065    Zainal Hartono                IF-C2    085662464994   MAHASISWA
+66    241080200066    Aditya Fitriani               IF-A1    081210958992   MAHASISWA
+67    241080200067    Bayu Rahmawati                IF-B1    082267153520   MAHASISWA
+68    241080200068    Candra Hidayah                IF-C1    085730526748   MAHASISWA
+69    241080200069    Diana Lestari                 IF-A2    089947283509   MAHASISWA
+70    241080200070    Elga Kusuma                   IF-B2    081368805211   MAHASISWA
+71    241080200071    Farhan Ginting                IF-C2    085693301935   MAHASISWA
+72    241080200072    Guntur Tanjung                IF-A1    081277737671   MAHASISWA
+73    241080200073    Hesti Simanjuntak             IF-B1    082211366415   MAHASISWA
+74    241080200074    Irma Situmorang               IF-C1    085774906212   MAHASISWA
+75    241080200075    Junaedi Nainggolan            IF-A2    089960456323   MAHASISWA
+76    241080200076    Kurnia Manurung               IF-B2    081387581489   ASISTEN LAB
+77    241080200077    Lestari Purba                 IF-C2    085693164924   MAHASISWA
+78    241080200078    Maulana Damanik               IF-A1    081252885896   ASISTEN LAB
+79    241080200079    Nanda Haloho                  IF-B1    082215644639   MAHASISWA
+80    241080200080    Oki Sibarani                  IF-C1    085767859355   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2025 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     251080200001    Maulana Lubis                 IF-C1    085721116229   MAHASISWA
+2     251080200002    Nanda Pangaribuan             IF-A2    089998352411   MAHASISWA
+3     251080200003    Oki Siahaan                   IF-B2    081372105888   MAHASISWA
+4     251080200004    Pratama Nababan               IF-C2    085674583473   MAHASISWA
+5     251080200005    Riza Sinaga                   IF-A1    081245523394   MAHASISWA
+6     251080200006    Saputra Silalahi              IF-B1    082283831933   MAHASISWA
+7     251080200007    Tri Saragih                   IF-C1    085793385611   ASISTEN LAB
+8     251080200008    Wahyu Girsang                 IF-A2    089977487484   MAHASISWA
+9     251080200009    Yulia Tambunan                IF-B2    081321681690   MAHASISWA
+10    251080200010    Zulfikar Pakpahan             IF-C2    085640985852   MAHASISWA
+11    251080200011    Hanif Simatupang              IF-A1    081234199557   MAHASISWA
+12    251080200012    Kevin Nugroho                 IF-B1    082240437957   MAHASISWA
+13    251080200013    Aldo Ramadhan                 IF-C1    085716658090   MAHASISWA
+14    251080200014    Bella Budiman                 IF-A2    089953167420   MAHASISWA
+15    251080200015    Daniel Cahyono                IF-B2    081398860700   MAHASISWA
+16    251080200016    Elsa Raharjo                  IF-C2    085659968492   MAHASISWA
+17    251080200017    Felix Hadi                    IF-A1    081259634256   MAHASISWA
+18    251080200018    Grace Hasanah                 IF-B1    082236444459   MAHASISWA
+19    251080200019    Hendra Sari                   IF-C1    085788219406   MAHASISWA
+20    251080200020    Ivan Fauzi                    IF-A2    089942481291   MAHASISWA
+21    251080200021    Jessica Wijaya                IF-B2    081353161420   ASISTEN LAB
+22    251080200022    Kenji Siregar                 IF-C2    085655056075   MAHASISWA
+23    251080200023    Lisa Harahap                  IF-A1    081256226364   MAHASISWA
+24    251080200024    Mario Hutapea                 IF-B1    082213678617   MAHASISWA
+25    251080200025    Nadia Panjaitan               IF-C1    085790339385   MAHASISWA
+26    251080200026    Oscar Sitorus                 IF-A2    089998844537   MAHASISWA
+27    251080200027    Putri Marpaung                IF-B2    081328665097   MAHASISWA
+28    251080200028    Randy Ambarita                IF-C2    085637389136   MAHASISWA
+29    251080200029    Siska Sipayung                IF-A1    081226315763   MAHASISWA
+30    251080200030    Tedy Sumbayak                 IF-B1    082292661288   MAHASISWA
+31    251080200031    Ulfa Manik                    IF-C1    085770625137   MAHASISWA
+32    251080200032    Vina Silaen                   IF-A2    089928934469   MAHASISWA
+33    251080200033    Wendy Sitompul                IF-B2    081324244661   MAHASISWA
+34    251080200034    Yanto Pratama                 IF-C2    085616812940   MAHASISWA
+35    251080200035    Ahmad Wibowo                  IF-A1    081267642308   MAHASISWA
+36    251080200036    Budi Gunawan                  IF-B1    082219509714   MAHASISWA
+37    251080200037    Citra Susanto                 IF-C1    085799241227   ASISTEN LAB
+38    251080200038    Dwi Utomo                     IF-A2    089972383722   MAHASISWA
+39    251080200039    Eko Hartono                   IF-B2    081335582963   MAHASISWA
+40    251080200040    Fajar Fitriani                IF-C2    085614341487   MAHASISWA
+41    251080200041    Gita Rahmawati                IF-A1    081243721076   MAHASISWA
+42    251080200042    Hari Hidayah                  IF-B1    082229260764   MAHASISWA
+43    251080200043    Indah Lestari                 IF-C1    085785965037   MAHASISWA
+44    251080200044    Joko Kusuma                   IF-A2    089970988940   MAHASISWA
+45    251080200045    Kartika Ginting               IF-B2    081398287866   MAHASISWA
+46    251080200046    Lukman Tanjung                IF-C2    085628169867   MAHASISWA
+47    251080200047    Mega Simanjuntak              IF-A1    081285454102   MAHASISWA
+48    251080200048    Nur Situmorang                IF-B1    082265948921   MAHASISWA
+49    251080200049    Ony Nainggolan                IF-C1    085737654487   MAHASISWA
+50    251080200050    Putu Manurung                 IF-A2    089935138430   MAHASISWA
+51    251080200051    Rian Purba                    IF-B2    081335917630   MAHASISWA
+52    251080200052    Siti Damanik                  IF-C2    085651508981   MAHASISWA
+53    251080200053    Teguh Haloho                  IF-A1    081299130757   MAHASISWA
+54    251080200054    Utami Sibarani                IF-B1    082245138449   MAHASISWA
+55    251080200055    Vera Sidabutar                IF-C1    085780210901   MAHASISWA
+56    251080200056    Wawan Hidayat                 IF-A2    089919968931   MAHASISWA
+57    251080200057    Yeni Setiawan                 IF-B2    081317778436   MAHASISWA
+58    251080200058    Zainal Saputro                IF-C2    085618607971   MAHASISWA
+59    251080200059    Aditya Kurniawan              IF-A1    081234556009   MAHASISWA
+60    251080200060    Bayu Prasetyo                 IF-B1    082237582496   MAHASISWA
+61    251080200061    Candra Subagyo                IF-C1    085753975830   MAHASISWA
+62    251080200062    Diana Wulandari               IF-A2    089996022657   MAHASISWA
+63    251080200063    Elga Astuti                   IF-B2    081377415684   MAHASISWA
+64    251080200064    Farhan Safitri                IF-C2    085695167096   MAHASISWA
+65    251080200065    Guntur Santoso                IF-A1    081229713962   MAHASISWA
+66    251080200066    Hesti Saputra                 IF-B1    082213773640   MAHASISWA
+67    251080200067    Irma Nasution                 IF-C1    085771644583   MAHASISWA
+68    251080200068    Junaedi Lubis                 IF-A2    089999545573   MAHASISWA
+69    251080200069    Kurnia Pangaribuan            IF-B2    081319967531   MAHASISWA
+70    251080200070    Lestari Siahaan               IF-C2    085637830264   MAHASISWA
+71    251080200071    Maulana Nababan               IF-A1    081282008617   MAHASISWA
+72    251080200072    Nanda Sinaga                  IF-B1    082260922876   MAHASISWA
+73    251080200073    Oki Silalahi                  IF-C1    085728813941   MAHASISWA
+74    251080200074    Pratama Saragih               IF-A2    089933314864   ASISTEN LAB
+75    251080200075    Riza Girsang                  IF-B2    081353352920   MAHASISWA
+76    251080200076    Saputra Tambunan              IF-C2    085624633135   MAHASISWA
+77    251080200077    Tri Pakpahan                  IF-A1    081292933288   ASISTEN LAB
+78    251080200078    Wahyu Simatupang              IF-B1    082229118785   ASISTEN LAB
+79    251080200079    Yulia Nugroho                 IF-C1    085733549919   MAHASISWA
+80    251080200080    Zulfikar Ramadhan             IF-A2    089927524730   MAHASISWA
+
+-------------------------------------------------------------------------
+ ANGKATAN 2026 (80 Mahasiswa)
+-------------------------------------------------------------------------
+No.   NIM             Nama Lengkap                  Kelas    No. Telp       Status
+-------------------------------------------------------------------------
+1     261080200001    Wahyu Marpaung                IF-A2    089979815049   MAHASISWA
+2     261080200002    Yulia Ambarita                IF-B2    081316320922   MAHASISWA
+3     261080200003    Zulfikar Sipayung             IF-C2    085634398441   MAHASISWA
+4     261080200004    Hanif Sumbayak                IF-A1    081232729340   MAHASISWA
+5     261080200005    Kevin Manik                   IF-B1    082276267125   MAHASISWA
+6     261080200006    Aldo Silaen                   IF-C1    085779989553   MAHASISWA
+7     261080200007    Bella Sitompul                IF-A2    089968092118   MAHASISWA
+8     261080200008    Daniel Pratama                IF-B2    081387508145   MAHASISWA
+9     261080200009    Elsa Wibowo                   IF-C2    085616929019   MAHASISWA
+10    261080200010    Felix Gunawan                 IF-A1    081216372991   MAHASISWA
+11    261080200011    Grace Susanto                 IF-B1    082285369706   MAHASISWA
+12    261080200012    Hendra Utomo                  IF-C1    085760913791   MAHASISWA
+13    261080200013    Ivan Hartono                  IF-A2    089984186656   ASISTEN LAB
+14    261080200014    Jessica Fitriani              IF-B2    081311758781   MAHASISWA
+15    261080200015    Kenji Rahmawati               IF-C2    085666451267   MAHASISWA
+16    261080200016    Lisa Hidayah                  IF-A1    081251436779   MAHASISWA
+17    261080200017    Mario Lestari                 IF-B1    082211277641   MAHASISWA
+18    261080200018    Nadia Kusuma                  IF-C1    085760153832   MAHASISWA
+19    261080200019    Oscar Ginting                 IF-A2    089963318550   MAHASISWA
+20    261080200020    Putri Tanjung                 IF-B2    081373379383   MAHASISWA
+21    261080200021    Randy Simanjuntak             IF-C2    085693656616   MAHASISWA
+22    261080200022    Siska Situmorang              IF-A1    081252249245   MAHASISWA
+23    261080200023    Tedy Nainggolan               IF-B1    082245824891   MAHASISWA
+24    261080200024    Ulfa Manurung                 IF-C1    085732350141   MAHASISWA
+25    261080200025    Vina Purba                    IF-A2    089986691527   MAHASISWA
+26    261080200026    Wendy Damanik                 IF-B2    081337947241   MAHASISWA
+27    261080200027    Yanto Haloho                  IF-C2    085678768988   MAHASISWA
+28    261080200028    Ahmad Sibarani                IF-A1    081296079935   MAHASISWA
+29    261080200029    Budi Sidabutar                IF-B1    082294905892   MAHASISWA
+30    261080200030    Citra Hidayat                 IF-C1    085768056603   MAHASISWA
+31    261080200031    Dwi Setiawan                  IF-A2    089965630600   MAHASISWA
+32    261080200032    Eko Saputro                   IF-B2    081356553951   MAHASISWA
+33    261080200033    Fajar Kurniawan               IF-C2    085655763985   MAHASISWA
+34    261080200034    Gita Prasetyo                 IF-A1    081274797582   MAHASISWA
+35    261080200035    Hari Subagyo                  IF-B1    082291832273   ASISTEN LAB
+36    261080200036    Indah Wulandari               IF-C1    085776211991   MAHASISWA
+37    261080200037    Joko Astuti                   IF-A2    089986725839   MAHASISWA
+38    261080200038    Kartika Safitri               IF-B2    081351471930   MAHASISWA
+39    261080200039    Lukman Santoso                IF-C2    085670399205   MAHASISWA
+40    261080200040    Mega Saputra                  IF-A1    081211109360   ASISTEN LAB
+41    261080200041    Nur Nasution                  IF-B1    082251864034   MAHASISWA
+42    261080200042    Ony Lubis                     IF-C1    085752929678   MAHASISWA
+43    261080200043    Putu Pangaribuan              IF-A2    089957157102   MAHASISWA
+44    261080200044    Rian Siahaan                  IF-B2    081395418573   MAHASISWA
+45    261080200045    Siti Nababan                  IF-C2    085646042516   MAHASISWA
+46    261080200046    Teguh Sinaga                  IF-A1    081237880531   ASISTEN LAB
+47    261080200047    Utami Silalahi                IF-B1    082289429261   ASISTEN LAB
+48    261080200048    Vera Saragih                  IF-C1    085768712107   MAHASISWA
+49    261080200049    Wawan Girsang                 IF-A2    089989798932   MAHASISWA
+50    261080200050    Yeni Tambunan                 IF-B2    081384455596   MAHASISWA
+51    261080200051    Zainal Pakpahan               IF-C2    085649613129   MAHASISWA
+52    261080200052    Aditya Simatupang             IF-A1    081256552786   ASISTEN LAB
+53    261080200053    Bayu Nugroho                  IF-B1    082213009824   MAHASISWA
+54    261080200054    Candra Ramadhan               IF-C1    085781863570   MAHASISWA
+55    261080200055    Diana Budiman                 IF-A2    089927556795   MAHASISWA
+56    261080200056    Elga Cahyono                  IF-B2    081389580488   MAHASISWA
+57    261080200057    Farhan Raharjo                IF-C2    085689472975   MAHASISWA
+58    261080200058    Guntur Hadi                   IF-A1    081222585183   MAHASISWA
+59    261080200059    Hesti Hasanah                 IF-B1    082231885720   MAHASISWA
+60    261080200060    Irma Sari                     IF-C1    085719896761   MAHASISWA
+61    261080200061    Junaedi Fauzi                 IF-A2    089982721401   MAHASISWA
+62    261080200062    Kurnia Wijaya                 IF-B2    081391754473   MAHASISWA
+63    261080200063    Lestari Siregar               IF-C2    085682111982   MAHASISWA
+64    261080200064    Maulana Harahap               IF-A1    081237525412   MAHASISWA
+65    261080200065    Nanda Hutapea                 IF-B1    082289373553   MAHASISWA
+66    261080200066    Oki Panjaitan                 IF-C1    085778861708   ASISTEN LAB
+67    261080200067    Pratama Sitorus               IF-A2    089926105464   MAHASISWA
+68    261080200068    Riza Marpaung                 IF-B2    081378819047   MAHASISWA
+69    261080200069    Saputra Ambarita              IF-C2    085646701154   MAHASISWA
+70    261080200070    Tri Sipayung                  IF-A1    081258951624   MAHASISWA
+71    261080200071    Wahyu Sumbayak                IF-B1    082248232245   MAHASISWA
+72    261080200072    Yulia Manik                   IF-C1    085733248708   MAHASISWA
+73    261080200073    Zulfikar Silaen               IF-A2    089986486268   MAHASISWA
+74    261080200074    Hanif Sitompul                IF-B2    081376334796   MAHASISWA
+75    261080200075    Kevin Pratama                 IF-C2    085664302812   MAHASISWA
+76    261080200076    Aldo Wibowo                   IF-A1    081249024331   MAHASISWA
+77    261080200077    Bella Gunawan                 IF-B1    082258327467   MAHASISWA
+78    261080200078    Daniel Susanto                IF-C1    085744302712   MAHASISWA
+79    261080200079    Elsa Utomo                    IF-A2    089969114601   MAHASISWA
+80    261080200080    Felix Hartono                 IF-B2    081329835632   MAHASISWA

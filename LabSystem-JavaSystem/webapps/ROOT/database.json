@@ -1,0 +1,6872 @@
+{
+  "t_mahasiswa": [
+    {
+      "nim": "201080200001",
+      "nama": "Budi Sinaga",
+      "email": "budi.sinaga1@univ.ac.id",
+      "telp": "089954445530",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200002",
+      "nama": "Citra Silalahi",
+      "email": "citra.silalahi2@univ.ac.id",
+      "telp": "081362960728",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200003",
+      "nama": "Dwi Saragih",
+      "email": "dwi.saragih3@univ.ac.id",
+      "telp": "085663328232",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200004",
+      "nama": "Eko Girsang",
+      "email": "eko.girsang4@univ.ac.id",
+      "telp": "081250501489",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200005",
+      "nama": "Fajar Tambunan",
+      "email": "fajar.tambunan5@univ.ac.id",
+      "telp": "082251904340",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200006",
+      "nama": "Gita Pakpahan",
+      "email": "gita.pakpahan6@univ.ac.id",
+      "telp": "085787029812",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200007",
+      "nama": "Hari Simatupang",
+      "email": "hari.simatupang7@univ.ac.id",
+      "telp": "089952147018",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200008",
+      "nama": "Indah Nugroho",
+      "email": "indah.nugroho8@univ.ac.id",
+      "telp": "081345728427",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200009",
+      "nama": "Joko Ramadhan",
+      "email": "joko.ramadhan9@univ.ac.id",
+      "telp": "085617615328",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200010",
+      "nama": "Kartika Budiman",
+      "email": "kartika.budiman10@univ.ac.id",
+      "telp": "081240876272",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200011",
+      "nama": "Lukman Cahyono",
+      "email": "lukman.cahyono11@univ.ac.id",
+      "telp": "082221772809",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200012",
+      "nama": "Mega Raharjo",
+      "email": "mega.raharjo12@univ.ac.id",
+      "telp": "085737414056",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200013",
+      "nama": "Nur Hadi",
+      "email": "nur.hadi13@univ.ac.id",
+      "telp": "089992654261",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200014",
+      "nama": "Ony Hasanah",
+      "email": "ony.hasanah14@univ.ac.id",
+      "telp": "081314416382",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200015",
+      "nama": "Putu Sari",
+      "email": "putu.sari15@univ.ac.id",
+      "telp": "085672299704",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200016",
+      "nama": "Rian Fauzi",
+      "email": "rian.fauzi16@univ.ac.id",
+      "telp": "081224915931",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200017",
+      "nama": "Siti Wijaya",
+      "email": "siti.wijaya17@univ.ac.id",
+      "telp": "082277103088",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200018",
+      "nama": "Teguh Siregar",
+      "email": "teguh.siregar18@univ.ac.id",
+      "telp": "085778861063",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200019",
+      "nama": "Utami Harahap",
+      "email": "utami.harahap19@univ.ac.id",
+      "telp": "089959599794",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200020",
+      "nama": "Vera Hutapea",
+      "email": "vera.hutapea20@univ.ac.id",
+      "telp": "081322068249",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200021",
+      "nama": "Wawan Panjaitan",
+      "email": "wawan.panjaitan21@univ.ac.id",
+      "telp": "085634991996",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200022",
+      "nama": "Yeni Sitorus",
+      "email": "yeni.sitorus22@univ.ac.id",
+      "telp": "081294973686",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200023",
+      "nama": "Zainal Marpaung",
+      "email": "zainal.marpaung23@univ.ac.id",
+      "telp": "082238193405",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200024",
+      "nama": "Aditya Ambarita",
+      "email": "aditya.ambarita24@univ.ac.id",
+      "telp": "085720794300",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200025",
+      "nama": "Bayu Sipayung",
+      "email": "bayu.sipayung25@univ.ac.id",
+      "telp": "089935958665",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200026",
+      "nama": "Candra Sumbayak",
+      "email": "candra.sumbayak26@univ.ac.id",
+      "telp": "081353046667",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200027",
+      "nama": "Diana Manik",
+      "email": "diana.manik27@univ.ac.id",
+      "telp": "085650103265",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200028",
+      "nama": "Elga Silaen",
+      "email": "elga.silaen28@univ.ac.id",
+      "telp": "081284699530",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200029",
+      "nama": "Farhan Sitompul",
+      "email": "farhan.sitompul29@univ.ac.id",
+      "telp": "082236034303",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200030",
+      "nama": "Guntur Pratama",
+      "email": "guntur.pratama30@univ.ac.id",
+      "telp": "085781354230",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200031",
+      "nama": "Hesti Wibowo",
+      "email": "hesti.wibowo31@univ.ac.id",
+      "telp": "089982460791",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200032",
+      "nama": "Irma Gunawan",
+      "email": "irma.gunawan32@univ.ac.id",
+      "telp": "081327170613",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200033",
+      "nama": "Junaedi Susanto",
+      "email": "junaedi.susanto33@univ.ac.id",
+      "telp": "085636836152",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200034",
+      "nama": "Kurnia Utomo",
+      "email": "kurnia.utomo34@univ.ac.id",
+      "telp": "081265744509",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200035",
+      "nama": "Lestari Hartono",
+      "email": "lestari.hartono35@univ.ac.id",
+      "telp": "082296166137",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200036",
+      "nama": "Maulana Fitriani",
+      "email": "maulana.fitriani36@univ.ac.id",
+      "telp": "085725797473",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200037",
+      "nama": "Nanda Rahmawati",
+      "email": "nanda.rahmawati37@univ.ac.id",
+      "telp": "089976326087",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200038",
+      "nama": "Oki Hidayah",
+      "email": "oki.hidayah38@univ.ac.id",
+      "telp": "081339504908",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200039",
+      "nama": "Pratama Lestari",
+      "email": "pratama.lestari39@univ.ac.id",
+      "telp": "085647328265",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200040",
+      "nama": "Riza Kusuma",
+      "email": "riza.kusuma40@univ.ac.id",
+      "telp": "081230214511",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200041",
+      "nama": "Saputra Ginting",
+      "email": "saputra.ginting41@univ.ac.id",
+      "telp": "082254992631",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200042",
+      "nama": "Tri Tanjung",
+      "email": "tri.tanjung42@univ.ac.id",
+      "telp": "085715092938",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200043",
+      "nama": "Wahyu Simanjuntak",
+      "email": "wahyu.simanjuntak43@univ.ac.id",
+      "telp": "089981384854",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200044",
+      "nama": "Yulia Situmorang",
+      "email": "yulia.situmorang44@univ.ac.id",
+      "telp": "081318349500",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200045",
+      "nama": "Zulfikar Nainggolan",
+      "email": "zulfikar.nainggolan45@univ.ac.id",
+      "telp": "085644801026",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200046",
+      "nama": "Hanif Manurung",
+      "email": "hanif.manurung46@univ.ac.id",
+      "telp": "081260919913",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200047",
+      "nama": "Kevin Purba",
+      "email": "kevin.purba47@univ.ac.id",
+      "telp": "082224585142",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200048",
+      "nama": "Aldo Damanik",
+      "email": "aldo.damanik48@univ.ac.id",
+      "telp": "085733214379",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200049",
+      "nama": "Bella Haloho",
+      "email": "bella.haloho49@univ.ac.id",
+      "telp": "089940717657",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200050",
+      "nama": "Daniel Sibarani",
+      "email": "daniel.sibarani50@univ.ac.id",
+      "telp": "081348165629",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200051",
+      "nama": "Elsa Sidabutar",
+      "email": "elsa.sidabutar51@univ.ac.id",
+      "telp": "085650939817",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200052",
+      "nama": "Felix Hidayat",
+      "email": "felix.hidayat52@univ.ac.id",
+      "telp": "081252964077",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200053",
+      "nama": "Grace Setiawan",
+      "email": "grace.setiawan53@univ.ac.id",
+      "telp": "082268205359",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200054",
+      "nama": "Hendra Saputro",
+      "email": "hendra.saputro54@univ.ac.id",
+      "telp": "085747645583",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200055",
+      "nama": "Ivan Kurniawan",
+      "email": "ivan.kurniawan55@univ.ac.id",
+      "telp": "089979188708",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200056",
+      "nama": "Jessica Prasetyo",
+      "email": "jessica.prasetyo56@univ.ac.id",
+      "telp": "081349800826",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200057",
+      "nama": "Kenji Subagyo",
+      "email": "kenji.subagyo57@univ.ac.id",
+      "telp": "085611304698",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200058",
+      "nama": "Lisa Wulandari",
+      "email": "lisa.wulandari58@univ.ac.id",
+      "telp": "081279969431",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200059",
+      "nama": "Mario Astuti",
+      "email": "mario.astuti59@univ.ac.id",
+      "telp": "082267837850",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200060",
+      "nama": "Nadia Safitri",
+      "email": "nadia.safitri60@univ.ac.id",
+      "telp": "085782733276",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200061",
+      "nama": "Oscar Santoso",
+      "email": "oscar.santoso61@univ.ac.id",
+      "telp": "089968905481",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200062",
+      "nama": "Putri Saputra",
+      "email": "putri.saputra62@univ.ac.id",
+      "telp": "081329748250",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200063",
+      "nama": "Randy Nasution",
+      "email": "randy.nasution63@univ.ac.id",
+      "telp": "085626395235",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200064",
+      "nama": "Siska Lubis",
+      "email": "siska.lubis64@univ.ac.id",
+      "telp": "081229185187",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200065",
+      "nama": "Tedy Pangaribuan",
+      "email": "tedy.pangaribuan65@univ.ac.id",
+      "telp": "082252705309",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200066",
+      "nama": "Ulfa Siahaan",
+      "email": "ulfa.siahaan66@univ.ac.id",
+      "telp": "085767749450",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "201080200067",
+      "nama": "Vina Nababan",
+      "email": "vina.nababan67@univ.ac.id",
+      "telp": "089934146904",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200068",
+      "nama": "Wendy Sinaga",
+      "email": "wendy.sinaga68@univ.ac.id",
+      "telp": "081312533860",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200069",
+      "nama": "Yanto Silalahi",
+      "email": "yanto.silalahi69@univ.ac.id",
+      "telp": "085667202569",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200070",
+      "nama": "Ahmad Saragih",
+      "email": "ahmad.saragih70@univ.ac.id",
+      "telp": "081261600435",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200071",
+      "nama": "Budi Girsang",
+      "email": "budi.girsang71@univ.ac.id",
+      "telp": "082233168196",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200072",
+      "nama": "Citra Tambunan",
+      "email": "citra.tambunan72@univ.ac.id",
+      "telp": "085712682904",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200073",
+      "nama": "Dwi Pakpahan",
+      "email": "dwi.pakpahan73@univ.ac.id",
+      "telp": "089964446266",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200074",
+      "nama": "Eko Simatupang",
+      "email": "eko.simatupang74@univ.ac.id",
+      "telp": "081376917189",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200075",
+      "nama": "Fajar Nugroho",
+      "email": "fajar.nugroho75@univ.ac.id",
+      "telp": "085625167946",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200076",
+      "nama": "Gita Ramadhan",
+      "email": "gita.ramadhan76@univ.ac.id",
+      "telp": "081247223481",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200077",
+      "nama": "Hari Budiman",
+      "email": "hari.budiman77@univ.ac.id",
+      "telp": "082246378555",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200078",
+      "nama": "Indah Cahyono",
+      "email": "indah.cahyono78@univ.ac.id",
+      "telp": "085777013894",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200079",
+      "nama": "Joko Raharjo",
+      "email": "joko.raharjo79@univ.ac.id",
+      "telp": "089921692628",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "201080200080",
+      "nama": "Kartika Hadi",
+      "email": "kartika.hadi80@univ.ac.id",
+      "telp": "081397624167",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200001",
+      "nama": "Indah Manik",
+      "email": "indah.manik1@univ.ac.id",
+      "telp": "081355644693",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200002",
+      "nama": "Joko Silaen",
+      "email": "joko.silaen2@univ.ac.id",
+      "telp": "085614126393",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200003",
+      "nama": "Kartika Sitompul",
+      "email": "kartika.sitompul3@univ.ac.id",
+      "telp": "081265859063",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200004",
+      "nama": "Lukman Pratama",
+      "email": "lukman.pratama4@univ.ac.id",
+      "telp": "082282443712",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200005",
+      "nama": "Mega Wibowo",
+      "email": "mega.wibowo5@univ.ac.id",
+      "telp": "085740506340",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200006",
+      "nama": "Nur Gunawan",
+      "email": "nur.gunawan6@univ.ac.id",
+      "telp": "089994640070",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200007",
+      "nama": "Ony Susanto",
+      "email": "ony.susanto7@univ.ac.id",
+      "telp": "081312600934",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200008",
+      "nama": "Putu Utomo",
+      "email": "putu.utomo8@univ.ac.id",
+      "telp": "085674392459",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200009",
+      "nama": "Rian Hartono",
+      "email": "rian.hartono9@univ.ac.id",
+      "telp": "081290957375",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200010",
+      "nama": "Siti Fitriani",
+      "email": "siti.fitriani10@univ.ac.id",
+      "telp": "082248696103",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200011",
+      "nama": "Teguh Rahmawati",
+      "email": "teguh.rahmawati11@univ.ac.id",
+      "telp": "085722807083",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200012",
+      "nama": "Utami Hidayah",
+      "email": "utami.hidayah12@univ.ac.id",
+      "telp": "089961911750",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200013",
+      "nama": "Vera Lestari",
+      "email": "vera.lestari13@univ.ac.id",
+      "telp": "081324048976",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200014",
+      "nama": "Wawan Kusuma",
+      "email": "wawan.kusuma14@univ.ac.id",
+      "telp": "085690586190",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200015",
+      "nama": "Yeni Ginting",
+      "email": "yeni.ginting15@univ.ac.id",
+      "telp": "081210827104",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200016",
+      "nama": "Zainal Tanjung",
+      "email": "zainal.tanjung16@univ.ac.id",
+      "telp": "082226687961",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200017",
+      "nama": "Aditya Simanjuntak",
+      "email": "aditya.simanjuntak17@univ.ac.id",
+      "telp": "085721240378",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200018",
+      "nama": "Bayu Situmorang",
+      "email": "bayu.situmorang18@univ.ac.id",
+      "telp": "089934091391",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200019",
+      "nama": "Candra Nainggolan",
+      "email": "candra.nainggolan19@univ.ac.id",
+      "telp": "081348388335",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200020",
+      "nama": "Diana Manurung",
+      "email": "diana.manurung20@univ.ac.id",
+      "telp": "085613130225",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200021",
+      "nama": "Elga Purba",
+      "email": "elga.purba21@univ.ac.id",
+      "telp": "081257842926",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200022",
+      "nama": "Farhan Damanik",
+      "email": "farhan.damanik22@univ.ac.id",
+      "telp": "082291109135",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200023",
+      "nama": "Guntur Haloho",
+      "email": "guntur.haloho23@univ.ac.id",
+      "telp": "085742486992",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200024",
+      "nama": "Hesti Sibarani",
+      "email": "hesti.sibarani24@univ.ac.id",
+      "telp": "089922042502",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200025",
+      "nama": "Irma Sidabutar",
+      "email": "irma.sidabutar25@univ.ac.id",
+      "telp": "081371702389",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200026",
+      "nama": "Junaedi Hidayat",
+      "email": "junaedi.hidayat26@univ.ac.id",
+      "telp": "085652195713",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200027",
+      "nama": "Kurnia Setiawan",
+      "email": "kurnia.setiawan27@univ.ac.id",
+      "telp": "081210196475",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200028",
+      "nama": "Lestari Saputro",
+      "email": "lestari.saputro28@univ.ac.id",
+      "telp": "082281489696",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200029",
+      "nama": "Maulana Kurniawan",
+      "email": "maulana.kurniawan29@univ.ac.id",
+      "telp": "085796551743",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200030",
+      "nama": "Nanda Prasetyo",
+      "email": "nanda.prasetyo30@univ.ac.id",
+      "telp": "089980464323",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200031",
+      "nama": "Oki Subagyo",
+      "email": "oki.subagyo31@univ.ac.id",
+      "telp": "081371187373",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200032",
+      "nama": "Pratama Wulandari",
+      "email": "pratama.wulandari32@univ.ac.id",
+      "telp": "085660486425",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200033",
+      "nama": "Riza Astuti",
+      "email": "riza.astuti33@univ.ac.id",
+      "telp": "081262073647",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200034",
+      "nama": "Saputra Safitri",
+      "email": "saputra.safitri34@univ.ac.id",
+      "telp": "082219797015",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200035",
+      "nama": "Tri Santoso",
+      "email": "tri.santoso35@univ.ac.id",
+      "telp": "085778532460",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200036",
+      "nama": "Wahyu Saputra",
+      "email": "wahyu.saputra36@univ.ac.id",
+      "telp": "089911299475",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200037",
+      "nama": "Yulia Nasution",
+      "email": "yulia.nasution37@univ.ac.id",
+      "telp": "081320039292",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200038",
+      "nama": "Zulfikar Lubis",
+      "email": "zulfikar.lubis38@univ.ac.id",
+      "telp": "085679144761",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200039",
+      "nama": "Hanif Pangaribuan",
+      "email": "hanif.pangaribuan39@univ.ac.id",
+      "telp": "081263273126",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200040",
+      "nama": "Kevin Siahaan",
+      "email": "kevin.siahaan40@univ.ac.id",
+      "telp": "082239121612",
+      "kelas": "IF-B1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200041",
+      "nama": "Aldo Nababan",
+      "email": "aldo.nababan41@univ.ac.id",
+      "telp": "085752257481",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200042",
+      "nama": "Bella Sinaga",
+      "email": "bella.sinaga42@univ.ac.id",
+      "telp": "089911567431",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200043",
+      "nama": "Daniel Silalahi",
+      "email": "daniel.silalahi43@univ.ac.id",
+      "telp": "081328443430",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200044",
+      "nama": "Elsa Saragih",
+      "email": "elsa.saragih44@univ.ac.id",
+      "telp": "085613246333",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200045",
+      "nama": "Felix Girsang",
+      "email": "felix.girsang45@univ.ac.id",
+      "telp": "081288463978",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200046",
+      "nama": "Grace Tambunan",
+      "email": "grace.tambunan46@univ.ac.id",
+      "telp": "082298397446",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200047",
+      "nama": "Hendra Pakpahan",
+      "email": "hendra.pakpahan47@univ.ac.id",
+      "telp": "085743696811",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200048",
+      "nama": "Ivan Simatupang",
+      "email": "ivan.simatupang48@univ.ac.id",
+      "telp": "089960501223",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200049",
+      "nama": "Jessica Nugroho",
+      "email": "jessica.nugroho49@univ.ac.id",
+      "telp": "081319676560",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200050",
+      "nama": "Kenji Ramadhan",
+      "email": "kenji.ramadhan50@univ.ac.id",
+      "telp": "085650505035",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200051",
+      "nama": "Lisa Budiman",
+      "email": "lisa.budiman51@univ.ac.id",
+      "telp": "081259207504",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200052",
+      "nama": "Mario Cahyono",
+      "email": "mario.cahyono52@univ.ac.id",
+      "telp": "082265410118",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200053",
+      "nama": "Nadia Raharjo",
+      "email": "nadia.raharjo53@univ.ac.id",
+      "telp": "085780606425",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200054",
+      "nama": "Oscar Hadi",
+      "email": "oscar.hadi54@univ.ac.id",
+      "telp": "089940155850",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200055",
+      "nama": "Putri Hasanah",
+      "email": "putri.hasanah55@univ.ac.id",
+      "telp": "081323883228",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200056",
+      "nama": "Randy Sari",
+      "email": "randy.sari56@univ.ac.id",
+      "telp": "085685033548",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200057",
+      "nama": "Siska Fauzi",
+      "email": "siska.fauzi57@univ.ac.id",
+      "telp": "081216065170",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200058",
+      "nama": "Tedy Wijaya",
+      "email": "tedy.wijaya58@univ.ac.id",
+      "telp": "082253289938",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200059",
+      "nama": "Ulfa Siregar",
+      "email": "ulfa.siregar59@univ.ac.id",
+      "telp": "085759611359",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200060",
+      "nama": "Vina Harahap",
+      "email": "vina.harahap60@univ.ac.id",
+      "telp": "089939465274",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200061",
+      "nama": "Wendy Hutapea",
+      "email": "wendy.hutapea61@univ.ac.id",
+      "telp": "081322313313",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200062",
+      "nama": "Yanto Panjaitan",
+      "email": "yanto.panjaitan62@univ.ac.id",
+      "telp": "085658745157",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200063",
+      "nama": "Ahmad Sitorus",
+      "email": "ahmad.sitorus63@univ.ac.id",
+      "telp": "081284939787",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200064",
+      "nama": "Budi Marpaung",
+      "email": "budi.marpaung64@univ.ac.id",
+      "telp": "082260053054",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200065",
+      "nama": "Citra Ambarita",
+      "email": "citra.ambarita65@univ.ac.id",
+      "telp": "085756958215",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200066",
+      "nama": "Dwi Sipayung",
+      "email": "dwi.sipayung66@univ.ac.id",
+      "telp": "089924813230",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200067",
+      "nama": "Eko Sumbayak",
+      "email": "eko.sumbayak67@univ.ac.id",
+      "telp": "081382375444",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200068",
+      "nama": "Fajar Manik",
+      "email": "fajar.manik68@univ.ac.id",
+      "telp": "085674588765",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200069",
+      "nama": "Gita Silaen",
+      "email": "gita.silaen69@univ.ac.id",
+      "telp": "081275506118",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200070",
+      "nama": "Hari Sitompul",
+      "email": "hari.sitompul70@univ.ac.id",
+      "telp": "082293928368",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200071",
+      "nama": "Indah Pratama",
+      "email": "indah.pratama71@univ.ac.id",
+      "telp": "085725487820",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200072",
+      "nama": "Joko Wibowo",
+      "email": "joko.wibowo72@univ.ac.id",
+      "telp": "089934505643",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200073",
+      "nama": "Kartika Gunawan",
+      "email": "kartika.gunawan73@univ.ac.id",
+      "telp": "081312401922",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200074",
+      "nama": "Lukman Susanto",
+      "email": "lukman.susanto74@univ.ac.id",
+      "telp": "085645358114",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200075",
+      "nama": "Mega Utomo",
+      "email": "mega.utomo75@univ.ac.id",
+      "telp": "081282346973",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200076",
+      "nama": "Nur Hartono",
+      "email": "nur.hartono76@univ.ac.id",
+      "telp": "082264158479",
+      "kelas": "IF-B1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "211080200077",
+      "nama": "Ony Fitriani",
+      "email": "ony.fitriani77@univ.ac.id",
+      "telp": "085710938487",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200078",
+      "nama": "Putu Rahmawati",
+      "email": "putu.rahmawati78@univ.ac.id",
+      "telp": "089987215382",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200079",
+      "nama": "Rian Hidayah",
+      "email": "rian.hidayah79@univ.ac.id",
+      "telp": "081312261701",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "211080200080",
+      "nama": "Siti Lestari",
+      "email": "siti.lestari80@univ.ac.id",
+      "telp": "085699581673",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200001",
+      "nama": "Putu Setiawan",
+      "email": "putu.setiawan1@univ.ac.id",
+      "telp": "085675881388",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200002",
+      "nama": "Rian Saputro",
+      "email": "rian.saputro2@univ.ac.id",
+      "telp": "081280158830",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200003",
+      "nama": "Siti Kurniawan",
+      "email": "siti.kurniawan3@univ.ac.id",
+      "telp": "082285930490",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200004",
+      "nama": "Teguh Prasetyo",
+      "email": "teguh.prasetyo4@univ.ac.id",
+      "telp": "085774489173",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200005",
+      "nama": "Utami Subagyo",
+      "email": "utami.subagyo5@univ.ac.id",
+      "telp": "089990620181",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200006",
+      "nama": "Vera Wulandari",
+      "email": "vera.wulandari6@univ.ac.id",
+      "telp": "081393961293",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200007",
+      "nama": "Wawan Astuti",
+      "email": "wawan.astuti7@univ.ac.id",
+      "telp": "085656851706",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200008",
+      "nama": "Yeni Safitri",
+      "email": "yeni.safitri8@univ.ac.id",
+      "telp": "081285597071",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200009",
+      "nama": "Zainal Santoso",
+      "email": "zainal.santoso9@univ.ac.id",
+      "telp": "082257749391",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200010",
+      "nama": "Aditya Saputra",
+      "email": "aditya.saputra10@univ.ac.id",
+      "telp": "085748578096",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200011",
+      "nama": "Bayu Nasution",
+      "email": "bayu.nasution11@univ.ac.id",
+      "telp": "089921425317",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200012",
+      "nama": "Candra Lubis",
+      "email": "candra.lubis12@univ.ac.id",
+      "telp": "081314350427",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200013",
+      "nama": "Diana Pangaribuan",
+      "email": "diana.pangaribuan13@univ.ac.id",
+      "telp": "085650960607",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200014",
+      "nama": "Elga Siahaan",
+      "email": "elga.siahaan14@univ.ac.id",
+      "telp": "081284697221",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200015",
+      "nama": "Farhan Nababan",
+      "email": "farhan.nababan15@univ.ac.id",
+      "telp": "082260809677",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200016",
+      "nama": "Guntur Sinaga",
+      "email": "guntur.sinaga16@univ.ac.id",
+      "telp": "085745790196",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200017",
+      "nama": "Hesti Silalahi",
+      "email": "hesti.silalahi17@univ.ac.id",
+      "telp": "089913492944",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200018",
+      "nama": "Irma Saragih",
+      "email": "irma.saragih18@univ.ac.id",
+      "telp": "081321283734",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200019",
+      "nama": "Junaedi Girsang",
+      "email": "junaedi.girsang19@univ.ac.id",
+      "telp": "085664173494",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200020",
+      "nama": "Kurnia Tambunan",
+      "email": "kurnia.tambunan20@univ.ac.id",
+      "telp": "081217563429",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200021",
+      "nama": "Lestari Pakpahan",
+      "email": "lestari.pakpahan21@univ.ac.id",
+      "telp": "082248675092",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200022",
+      "nama": "Maulana Simatupang",
+      "email": "maulana.simatupang22@univ.ac.id",
+      "telp": "085763040156",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200023",
+      "nama": "Nanda Nugroho",
+      "email": "nanda.nugroho23@univ.ac.id",
+      "telp": "089939670978",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200024",
+      "nama": "Oki Ramadhan",
+      "email": "oki.ramadhan24@univ.ac.id",
+      "telp": "081350827305",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200025",
+      "nama": "Pratama Budiman",
+      "email": "pratama.budiman25@univ.ac.id",
+      "telp": "085614926801",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200026",
+      "nama": "Riza Cahyono",
+      "email": "riza.cahyono26@univ.ac.id",
+      "telp": "081216974037",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200027",
+      "nama": "Saputra Raharjo",
+      "email": "saputra.raharjo27@univ.ac.id",
+      "telp": "082231616074",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200028",
+      "nama": "Tri Hadi",
+      "email": "tri.hadi28@univ.ac.id",
+      "telp": "085731004497",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200029",
+      "nama": "Wahyu Hasanah",
+      "email": "wahyu.hasanah29@univ.ac.id",
+      "telp": "089977596074",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200030",
+      "nama": "Yulia Sari",
+      "email": "yulia.sari30@univ.ac.id",
+      "telp": "081348514768",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200031",
+      "nama": "Zulfikar Fauzi",
+      "email": "zulfikar.fauzi31@univ.ac.id",
+      "telp": "085622738138",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200032",
+      "nama": "Hanif Wijaya",
+      "email": "hanif.wijaya32@univ.ac.id",
+      "telp": "081258799700",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200033",
+      "nama": "Kevin Siregar",
+      "email": "kevin.siregar33@univ.ac.id",
+      "telp": "082234345498",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200034",
+      "nama": "Aldo Harahap",
+      "email": "aldo.harahap34@univ.ac.id",
+      "telp": "085723098470",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200035",
+      "nama": "Bella Hutapea",
+      "email": "bella.hutapea35@univ.ac.id",
+      "telp": "089985580387",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200036",
+      "nama": "Daniel Panjaitan",
+      "email": "daniel.panjaitan36@univ.ac.id",
+      "telp": "081373730126",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200037",
+      "nama": "Elsa Sitorus",
+      "email": "elsa.sitorus37@univ.ac.id",
+      "telp": "085656859842",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200038",
+      "nama": "Felix Marpaung",
+      "email": "felix.marpaung38@univ.ac.id",
+      "telp": "081288358096",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200039",
+      "nama": "Grace Ambarita",
+      "email": "grace.ambarita39@univ.ac.id",
+      "telp": "082261802026",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200040",
+      "nama": "Hendra Sipayung",
+      "email": "hendra.sipayung40@univ.ac.id",
+      "telp": "085756978395",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200041",
+      "nama": "Ivan Sumbayak",
+      "email": "ivan.sumbayak41@univ.ac.id",
+      "telp": "089948645583",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200042",
+      "nama": "Jessica Manik",
+      "email": "jessica.manik42@univ.ac.id",
+      "telp": "081378498834",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200043",
+      "nama": "Kenji Silaen",
+      "email": "kenji.silaen43@univ.ac.id",
+      "telp": "085697144663",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200044",
+      "nama": "Lisa Sitompul",
+      "email": "lisa.sitompul44@univ.ac.id",
+      "telp": "081294621138",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200045",
+      "nama": "Mario Pratama",
+      "email": "mario.pratama45@univ.ac.id",
+      "telp": "082231948400",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200046",
+      "nama": "Nadia Wibowo",
+      "email": "nadia.wibowo46@univ.ac.id",
+      "telp": "085744453454",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200047",
+      "nama": "Oscar Gunawan",
+      "email": "oscar.gunawan47@univ.ac.id",
+      "telp": "089913453594",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200048",
+      "nama": "Putri Susanto",
+      "email": "putri.susanto48@univ.ac.id",
+      "telp": "081321888787",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200049",
+      "nama": "Randy Utomo",
+      "email": "randy.utomo49@univ.ac.id",
+      "telp": "085617181821",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200050",
+      "nama": "Siska Hartono",
+      "email": "siska.hartono50@univ.ac.id",
+      "telp": "081297729400",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200051",
+      "nama": "Tedy Fitriani",
+      "email": "tedy.fitriani51@univ.ac.id",
+      "telp": "082276376737",
+      "kelas": "IF-B1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200052",
+      "nama": "Ulfa Rahmawati",
+      "email": "ulfa.rahmawati52@univ.ac.id",
+      "telp": "085749268046",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200053",
+      "nama": "Vina Hidayah",
+      "email": "vina.hidayah53@univ.ac.id",
+      "telp": "089990778170",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200054",
+      "nama": "Wendy Lestari",
+      "email": "wendy.lestari54@univ.ac.id",
+      "telp": "081381304169",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200055",
+      "nama": "Yanto Kusuma",
+      "email": "yanto.kusuma55@univ.ac.id",
+      "telp": "085673027723",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200056",
+      "nama": "Ahmad Ginting",
+      "email": "ahmad.ginting56@univ.ac.id",
+      "telp": "081299218034",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200057",
+      "nama": "Budi Tanjung",
+      "email": "budi.tanjung57@univ.ac.id",
+      "telp": "082251969749",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200058",
+      "nama": "Citra Simanjuntak",
+      "email": "citra.simanjuntak58@univ.ac.id",
+      "telp": "085760418266",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200059",
+      "nama": "Dwi Situmorang",
+      "email": "dwi.situmorang59@univ.ac.id",
+      "telp": "089977950720",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200060",
+      "nama": "Eko Nainggolan",
+      "email": "eko.nainggolan60@univ.ac.id",
+      "telp": "081361901730",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200061",
+      "nama": "Fajar Manurung",
+      "email": "fajar.manurung61@univ.ac.id",
+      "telp": "085673423931",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200062",
+      "nama": "Gita Purba",
+      "email": "gita.purba62@univ.ac.id",
+      "telp": "081252594116",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200063",
+      "nama": "Hari Damanik",
+      "email": "hari.damanik63@univ.ac.id",
+      "telp": "082233384727",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200064",
+      "nama": "Indah Haloho",
+      "email": "indah.haloho64@univ.ac.id",
+      "telp": "085743820105",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200065",
+      "nama": "Joko Sibarani",
+      "email": "joko.sibarani65@univ.ac.id",
+      "telp": "089914881770",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200066",
+      "nama": "Kartika Sidabutar",
+      "email": "kartika.sidabutar66@univ.ac.id",
+      "telp": "081352505374",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200067",
+      "nama": "Lukman Hidayat",
+      "email": "lukman.hidayat67@univ.ac.id",
+      "telp": "085616716137",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200068",
+      "nama": "Mega Setiawan",
+      "email": "mega.setiawan68@univ.ac.id",
+      "telp": "081282668527",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200069",
+      "nama": "Nur Saputro",
+      "email": "nur.saputro69@univ.ac.id",
+      "telp": "082211548105",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200070",
+      "nama": "Ony Kurniawan",
+      "email": "ony.kurniawan70@univ.ac.id",
+      "telp": "085772872443",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200071",
+      "nama": "Putu Prasetyo",
+      "email": "putu.prasetyo71@univ.ac.id",
+      "telp": "089959140936",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200072",
+      "nama": "Rian Subagyo",
+      "email": "rian.subagyo72@univ.ac.id",
+      "telp": "081381633669",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200073",
+      "nama": "Siti Wulandari",
+      "email": "siti.wulandari73@univ.ac.id",
+      "telp": "085614745839",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "221080200074",
+      "nama": "Teguh Astuti",
+      "email": "teguh.astuti74@univ.ac.id",
+      "telp": "081298605028",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200075",
+      "nama": "Utami Safitri",
+      "email": "utami.safitri75@univ.ac.id",
+      "telp": "082252454095",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200076",
+      "nama": "Vera Santoso",
+      "email": "vera.santoso76@univ.ac.id",
+      "telp": "085726870404",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200077",
+      "nama": "Wawan Saputra",
+      "email": "wawan.saputra77@univ.ac.id",
+      "telp": "089946127512",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200078",
+      "nama": "Yeni Nasution",
+      "email": "yeni.nasution78@univ.ac.id",
+      "telp": "081316532191",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200079",
+      "nama": "Zainal Lubis",
+      "email": "zainal.lubis79@univ.ac.id",
+      "telp": "085668571514",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "221080200080",
+      "nama": "Aditya Pangaribuan",
+      "email": "aditya.pangaribuan80@univ.ac.id",
+      "telp": "081219807676",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200001",
+      "nama": "Yeni Raharjo",
+      "email": "yeni.raharjo1@univ.ac.id",
+      "telp": "081253810370",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200002",
+      "nama": "Zainal Hadi",
+      "email": "zainal.hadi2@univ.ac.id",
+      "telp": "082223006174",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200003",
+      "nama": "Aditya Hasanah",
+      "email": "aditya.hasanah3@univ.ac.id",
+      "telp": "085726691831",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200004",
+      "nama": "Bayu Sari",
+      "email": "bayu.sari4@univ.ac.id",
+      "telp": "089994587827",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200005",
+      "nama": "Candra Fauzi",
+      "email": "candra.fauzi5@univ.ac.id",
+      "telp": "081385933112",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200006",
+      "nama": "Diana Wijaya",
+      "email": "diana.wijaya6@univ.ac.id",
+      "telp": "085674097752",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200007",
+      "nama": "Elga Siregar",
+      "email": "elga.siregar7@univ.ac.id",
+      "telp": "081270182759",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200008",
+      "nama": "Farhan Harahap",
+      "email": "farhan.harahap8@univ.ac.id",
+      "telp": "082220474627",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200009",
+      "nama": "Guntur Hutapea",
+      "email": "guntur.hutapea9@univ.ac.id",
+      "telp": "085761408120",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200010",
+      "nama": "Hesti Panjaitan",
+      "email": "hesti.panjaitan10@univ.ac.id",
+      "telp": "089963977311",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200011",
+      "nama": "Irma Sitorus",
+      "email": "irma.sitorus11@univ.ac.id",
+      "telp": "081342602114",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200012",
+      "nama": "Junaedi Marpaung",
+      "email": "junaedi.marpaung12@univ.ac.id",
+      "telp": "085633645448",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200013",
+      "nama": "Kurnia Ambarita",
+      "email": "kurnia.ambarita13@univ.ac.id",
+      "telp": "081296341702",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200014",
+      "nama": "Lestari Sipayung",
+      "email": "lestari.sipayung14@univ.ac.id",
+      "telp": "082260443491",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200015",
+      "nama": "Maulana Sumbayak",
+      "email": "maulana.sumbayak15@univ.ac.id",
+      "telp": "085778714115",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200016",
+      "nama": "Nanda Manik",
+      "email": "nanda.manik16@univ.ac.id",
+      "telp": "089951532850",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200017",
+      "nama": "Oki Silaen",
+      "email": "oki.silaen17@univ.ac.id",
+      "telp": "081391454056",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200018",
+      "nama": "Pratama Sitompul",
+      "email": "pratama.sitompul18@univ.ac.id",
+      "telp": "085615371312",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200019",
+      "nama": "Riza Pratama",
+      "email": "riza.pratama19@univ.ac.id",
+      "telp": "081241727021",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200020",
+      "nama": "Saputra Wibowo",
+      "email": "saputra.wibowo20@univ.ac.id",
+      "telp": "082229713243",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200021",
+      "nama": "Tri Gunawan",
+      "email": "tri.gunawan21@univ.ac.id",
+      "telp": "085745487814",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200022",
+      "nama": "Wahyu Susanto",
+      "email": "wahyu.susanto22@univ.ac.id",
+      "telp": "089974278687",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200023",
+      "nama": "Yulia Utomo",
+      "email": "yulia.utomo23@univ.ac.id",
+      "telp": "081334594092",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200024",
+      "nama": "Zulfikar Hartono",
+      "email": "zulfikar.hartono24@univ.ac.id",
+      "telp": "085662497196",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200025",
+      "nama": "Hanif Fitriani",
+      "email": "hanif.fitriani25@univ.ac.id",
+      "telp": "081228611332",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200026",
+      "nama": "Kevin Rahmawati",
+      "email": "kevin.rahmawati26@univ.ac.id",
+      "telp": "082220695498",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200027",
+      "nama": "Aldo Hidayah",
+      "email": "aldo.hidayah27@univ.ac.id",
+      "telp": "085793324526",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200028",
+      "nama": "Bella Lestari",
+      "email": "bella.lestari28@univ.ac.id",
+      "telp": "089974600567",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200029",
+      "nama": "Daniel Kusuma",
+      "email": "daniel.kusuma29@univ.ac.id",
+      "telp": "081388707508",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200030",
+      "nama": "Elsa Ginting",
+      "email": "elsa.ginting30@univ.ac.id",
+      "telp": "085662336313",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200031",
+      "nama": "Felix Tanjung",
+      "email": "felix.tanjung31@univ.ac.id",
+      "telp": "081254975561",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200032",
+      "nama": "Grace Simanjuntak",
+      "email": "grace.simanjuntak32@univ.ac.id",
+      "telp": "082292328399",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200033",
+      "nama": "Hendra Situmorang",
+      "email": "hendra.situmorang33@univ.ac.id",
+      "telp": "085724683889",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200034",
+      "nama": "Ivan Nainggolan",
+      "email": "ivan.nainggolan34@univ.ac.id",
+      "telp": "089936356400",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200035",
+      "nama": "Jessica Manurung",
+      "email": "jessica.manurung35@univ.ac.id",
+      "telp": "081330689877",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200036",
+      "nama": "Kenji Purba",
+      "email": "kenji.purba36@univ.ac.id",
+      "telp": "085672478097",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200037",
+      "nama": "Lisa Damanik",
+      "email": "lisa.damanik37@univ.ac.id",
+      "telp": "081296979391",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200038",
+      "nama": "Mario Haloho",
+      "email": "mario.haloho38@univ.ac.id",
+      "telp": "082243139488",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200039",
+      "nama": "Nadia Sibarani",
+      "email": "nadia.sibarani39@univ.ac.id",
+      "telp": "085711649276",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200040",
+      "nama": "Oscar Sidabutar",
+      "email": "oscar.sidabutar40@univ.ac.id",
+      "telp": "089920447861",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200041",
+      "nama": "Putri Hidayat",
+      "email": "putri.hidayat41@univ.ac.id",
+      "telp": "081367746026",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200042",
+      "nama": "Randy Setiawan",
+      "email": "randy.setiawan42@univ.ac.id",
+      "telp": "085647806410",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200043",
+      "nama": "Siska Saputro",
+      "email": "siska.saputro43@univ.ac.id",
+      "telp": "081259329549",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200044",
+      "nama": "Tedy Kurniawan",
+      "email": "tedy.kurniawan44@univ.ac.id",
+      "telp": "082244174395",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200045",
+      "nama": "Ulfa Prasetyo",
+      "email": "ulfa.prasetyo45@univ.ac.id",
+      "telp": "085779999702",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200046",
+      "nama": "Vina Subagyo",
+      "email": "vina.subagyo46@univ.ac.id",
+      "telp": "089998693392",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200047",
+      "nama": "Wendy Wulandari",
+      "email": "wendy.wulandari47@univ.ac.id",
+      "telp": "081319274350",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200048",
+      "nama": "Yanto Astuti",
+      "email": "yanto.astuti48@univ.ac.id",
+      "telp": "085649525971",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200049",
+      "nama": "Ahmad Safitri",
+      "email": "ahmad.safitri49@univ.ac.id",
+      "telp": "081280847918",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200050",
+      "nama": "Budi Santoso",
+      "email": "budi.santoso50@univ.ac.id",
+      "telp": "082276400230",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200051",
+      "nama": "Citra Saputra",
+      "email": "citra.saputra51@univ.ac.id",
+      "telp": "085754446928",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200052",
+      "nama": "Dwi Nasution",
+      "email": "dwi.nasution52@univ.ac.id",
+      "telp": "089978256651",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200053",
+      "nama": "Eko Lubis",
+      "email": "eko.lubis53@univ.ac.id",
+      "telp": "081319785381",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200054",
+      "nama": "Fajar Pangaribuan",
+      "email": "fajar.pangaribuan54@univ.ac.id",
+      "telp": "085687513383",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200055",
+      "nama": "Gita Siahaan",
+      "email": "gita.siahaan55@univ.ac.id",
+      "telp": "081210496034",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200056",
+      "nama": "Hari Nababan",
+      "email": "hari.nababan56@univ.ac.id",
+      "telp": "082288371958",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200057",
+      "nama": "Indah Sinaga",
+      "email": "indah.sinaga57@univ.ac.id",
+      "telp": "085763400628",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200058",
+      "nama": "Joko Silalahi",
+      "email": "joko.silalahi58@univ.ac.id",
+      "telp": "089914214557",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200059",
+      "nama": "Kartika Saragih",
+      "email": "kartika.saragih59@univ.ac.id",
+      "telp": "081396104364",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200060",
+      "nama": "Lukman Girsang",
+      "email": "lukman.girsang60@univ.ac.id",
+      "telp": "085690517845",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200061",
+      "nama": "Mega Tambunan",
+      "email": "mega.tambunan61@univ.ac.id",
+      "telp": "081230265592",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200062",
+      "nama": "Nur Pakpahan",
+      "email": "nur.pakpahan62@univ.ac.id",
+      "telp": "082228360502",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200063",
+      "nama": "Ony Simatupang",
+      "email": "ony.simatupang63@univ.ac.id",
+      "telp": "085752406512",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200064",
+      "nama": "Putu Nugroho",
+      "email": "putu.nugroho64@univ.ac.id",
+      "telp": "089973381542",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200065",
+      "nama": "Rian Ramadhan",
+      "email": "rian.ramadhan65@univ.ac.id",
+      "telp": "081327743949",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200066",
+      "nama": "Siti Budiman",
+      "email": "siti.budiman66@univ.ac.id",
+      "telp": "085697935777",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200067",
+      "nama": "Teguh Cahyono",
+      "email": "teguh.cahyono67@univ.ac.id",
+      "telp": "081216102721",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200068",
+      "nama": "Utami Raharjo",
+      "email": "utami.raharjo68@univ.ac.id",
+      "telp": "082261252867",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200069",
+      "nama": "Vera Hadi",
+      "email": "vera.hadi69@univ.ac.id",
+      "telp": "085722509132",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200070",
+      "nama": "Wawan Hasanah",
+      "email": "wawan.hasanah70@univ.ac.id",
+      "telp": "089961689301",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200071",
+      "nama": "Yeni Sari",
+      "email": "yeni.sari71@univ.ac.id",
+      "telp": "081347549519",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200072",
+      "nama": "Zainal Fauzi",
+      "email": "zainal.fauzi72@univ.ac.id",
+      "telp": "085691600062",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200073",
+      "nama": "Aditya Wijaya",
+      "email": "aditya.wijaya73@univ.ac.id",
+      "telp": "081232994521",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200074",
+      "nama": "Bayu Siregar",
+      "email": "bayu.siregar74@univ.ac.id",
+      "telp": "082222609832",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200075",
+      "nama": "Candra Harahap",
+      "email": "candra.harahap75@univ.ac.id",
+      "telp": "085722688450",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200076",
+      "nama": "Diana Hutapea",
+      "email": "diana.hutapea76@univ.ac.id",
+      "telp": "089912871530",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "231080200077",
+      "nama": "Elga Panjaitan",
+      "email": "elga.panjaitan77@univ.ac.id",
+      "telp": "081395072566",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200078",
+      "nama": "Farhan Sitorus",
+      "email": "farhan.sitorus78@univ.ac.id",
+      "telp": "085679049439",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200079",
+      "nama": "Guntur Marpaung",
+      "email": "guntur.marpaung79@univ.ac.id",
+      "telp": "081296972877",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "231080200080",
+      "nama": "Hesti Ambarita",
+      "email": "hesti.ambarita80@univ.ac.id",
+      "telp": "082245484298",
+      "kelas": "IF-B1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200001",
+      "nama": "Farhan Hidayah",
+      "email": "farhan.hidayah1@univ.ac.id",
+      "telp": "082249764519",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200002",
+      "nama": "Guntur Lestari",
+      "email": "guntur.lestari2@univ.ac.id",
+      "telp": "085758512745",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200003",
+      "nama": "Hesti Kusuma",
+      "email": "hesti.kusuma3@univ.ac.id",
+      "telp": "089933912877",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200004",
+      "nama": "Irma Ginting",
+      "email": "irma.ginting4@univ.ac.id",
+      "telp": "081311107589",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200005",
+      "nama": "Junaedi Tanjung",
+      "email": "junaedi.tanjung5@univ.ac.id",
+      "telp": "085645875877",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200006",
+      "nama": "Kurnia Simanjuntak",
+      "email": "kurnia.simanjuntak6@univ.ac.id",
+      "telp": "081284215400",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200007",
+      "nama": "Lestari Situmorang",
+      "email": "lestari.situmorang7@univ.ac.id",
+      "telp": "082285197943",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200008",
+      "nama": "Maulana Nainggolan",
+      "email": "maulana.nainggolan8@univ.ac.id",
+      "telp": "085768564645",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200009",
+      "nama": "Nanda Manurung",
+      "email": "nanda.manurung9@univ.ac.id",
+      "telp": "089956947283",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200010",
+      "nama": "Oki Purba",
+      "email": "oki.purba10@univ.ac.id",
+      "telp": "081372223714",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200011",
+      "nama": "Pratama Damanik",
+      "email": "pratama.damanik11@univ.ac.id",
+      "telp": "085667857904",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200012",
+      "nama": "Riza Haloho",
+      "email": "riza.haloho12@univ.ac.id",
+      "telp": "081260781260",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200013",
+      "nama": "Saputra Sibarani",
+      "email": "saputra.sibarani13@univ.ac.id",
+      "telp": "082287519219",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200014",
+      "nama": "Tri Sidabutar",
+      "email": "tri.sidabutar14@univ.ac.id",
+      "telp": "085750102032",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200015",
+      "nama": "Wahyu Hidayat",
+      "email": "wahyu.hidayat15@univ.ac.id",
+      "telp": "089958259325",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200016",
+      "nama": "Yulia Setiawan",
+      "email": "yulia.setiawan16@univ.ac.id",
+      "telp": "081360760252",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200017",
+      "nama": "Zulfikar Saputro",
+      "email": "zulfikar.saputro17@univ.ac.id",
+      "telp": "085691274763",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200018",
+      "nama": "Hanif Kurniawan",
+      "email": "hanif.kurniawan18@univ.ac.id",
+      "telp": "081211423399",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200019",
+      "nama": "Kevin Prasetyo",
+      "email": "kevin.prasetyo19@univ.ac.id",
+      "telp": "082299021595",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200020",
+      "nama": "Aldo Subagyo",
+      "email": "aldo.subagyo20@univ.ac.id",
+      "telp": "085749431439",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200021",
+      "nama": "Bella Wulandari",
+      "email": "bella.wulandari21@univ.ac.id",
+      "telp": "089955484697",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200022",
+      "nama": "Daniel Astuti",
+      "email": "daniel.astuti22@univ.ac.id",
+      "telp": "081375118855",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200023",
+      "nama": "Elsa Safitri",
+      "email": "elsa.safitri23@univ.ac.id",
+      "telp": "085693208376",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200024",
+      "nama": "Felix Santoso",
+      "email": "felix.santoso24@univ.ac.id",
+      "telp": "081251243621",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200025",
+      "nama": "Grace Saputra",
+      "email": "grace.saputra25@univ.ac.id",
+      "telp": "082211387202",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200026",
+      "nama": "Hendra Nasution",
+      "email": "hendra.nasution26@univ.ac.id",
+      "telp": "085725172777",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200027",
+      "nama": "Ivan Lubis",
+      "email": "ivan.lubis27@univ.ac.id",
+      "telp": "089930953728",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200028",
+      "nama": "Jessica Pangaribuan",
+      "email": "jessica.pangaribuan28@univ.ac.id",
+      "telp": "081329207697",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200029",
+      "nama": "Kenji Siahaan",
+      "email": "kenji.siahaan29@univ.ac.id",
+      "telp": "085641045457",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200030",
+      "nama": "Lisa Nababan",
+      "email": "lisa.nababan30@univ.ac.id",
+      "telp": "081284651324",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200031",
+      "nama": "Mario Sinaga",
+      "email": "mario.sinaga31@univ.ac.id",
+      "telp": "082216981067",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200032",
+      "nama": "Nadia Silalahi",
+      "email": "nadia.silalahi32@univ.ac.id",
+      "telp": "085733373665",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200033",
+      "nama": "Oscar Saragih",
+      "email": "oscar.saragih33@univ.ac.id",
+      "telp": "089921194535",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200034",
+      "nama": "Putri Girsang",
+      "email": "putri.girsang34@univ.ac.id",
+      "telp": "081390688440",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200035",
+      "nama": "Randy Tambunan",
+      "email": "randy.tambunan35@univ.ac.id",
+      "telp": "085621792266",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200036",
+      "nama": "Siska Pakpahan",
+      "email": "siska.pakpahan36@univ.ac.id",
+      "telp": "081268386415",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200037",
+      "nama": "Tedy Simatupang",
+      "email": "tedy.simatupang37@univ.ac.id",
+      "telp": "082271989403",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200038",
+      "nama": "Ulfa Nugroho",
+      "email": "ulfa.nugroho38@univ.ac.id",
+      "telp": "085766844106",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200039",
+      "nama": "Vina Ramadhan",
+      "email": "vina.ramadhan39@univ.ac.id",
+      "telp": "089914851098",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200040",
+      "nama": "Wendy Budiman",
+      "email": "wendy.budiman40@univ.ac.id",
+      "telp": "081376169174",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200041",
+      "nama": "Yanto Cahyono",
+      "email": "yanto.cahyono41@univ.ac.id",
+      "telp": "085618287560",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200042",
+      "nama": "Ahmad Raharjo",
+      "email": "ahmad.raharjo42@univ.ac.id",
+      "telp": "081296514752",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200043",
+      "nama": "Budi Hadi",
+      "email": "budi.hadi43@univ.ac.id",
+      "telp": "082232718842",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200044",
+      "nama": "Citra Hasanah",
+      "email": "citra.hasanah44@univ.ac.id",
+      "telp": "085782586396",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200045",
+      "nama": "Dwi Sari",
+      "email": "dwi.sari45@univ.ac.id",
+      "telp": "089974418176",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200046",
+      "nama": "Eko Fauzi",
+      "email": "eko.fauzi46@univ.ac.id",
+      "telp": "081311735909",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200047",
+      "nama": "Fajar Wijaya",
+      "email": "fajar.wijaya47@univ.ac.id",
+      "telp": "085652148369",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200048",
+      "nama": "Gita Siregar",
+      "email": "gita.siregar48@univ.ac.id",
+      "telp": "081295096433",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200049",
+      "nama": "Hari Harahap",
+      "email": "hari.harahap49@univ.ac.id",
+      "telp": "082232867674",
+      "kelas": "IF-B1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200050",
+      "nama": "Indah Hutapea",
+      "email": "indah.hutapea50@univ.ac.id",
+      "telp": "085759436129",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200051",
+      "nama": "Joko Panjaitan",
+      "email": "joko.panjaitan51@univ.ac.id",
+      "telp": "089938392154",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200052",
+      "nama": "Kartika Sitorus",
+      "email": "kartika.sitorus52@univ.ac.id",
+      "telp": "081371175313",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200053",
+      "nama": "Lukman Marpaung",
+      "email": "lukman.marpaung53@univ.ac.id",
+      "telp": "085683148262",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200054",
+      "nama": "Mega Ambarita",
+      "email": "mega.ambarita54@univ.ac.id",
+      "telp": "081263311993",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200055",
+      "nama": "Nur Sipayung",
+      "email": "nur.sipayung55@univ.ac.id",
+      "telp": "082271030199",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200056",
+      "nama": "Ony Sumbayak",
+      "email": "ony.sumbayak56@univ.ac.id",
+      "telp": "085735365097",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200057",
+      "nama": "Putu Manik",
+      "email": "putu.manik57@univ.ac.id",
+      "telp": "089937712837",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200058",
+      "nama": "Rian Silaen",
+      "email": "rian.silaen58@univ.ac.id",
+      "telp": "081339106852",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200059",
+      "nama": "Siti Sitompul",
+      "email": "siti.sitompul59@univ.ac.id",
+      "telp": "085630196745",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200060",
+      "nama": "Teguh Pratama",
+      "email": "teguh.pratama60@univ.ac.id",
+      "telp": "081223740573",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200061",
+      "nama": "Utami Wibowo",
+      "email": "utami.wibowo61@univ.ac.id",
+      "telp": "082264954219",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200062",
+      "nama": "Vera Gunawan",
+      "email": "vera.gunawan62@univ.ac.id",
+      "telp": "085719407114",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200063",
+      "nama": "Wawan Susanto",
+      "email": "wawan.susanto63@univ.ac.id",
+      "telp": "089917117687",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200064",
+      "nama": "Yeni Utomo",
+      "email": "yeni.utomo64@univ.ac.id",
+      "telp": "081359769917",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200065",
+      "nama": "Zainal Hartono",
+      "email": "zainal.hartono65@univ.ac.id",
+      "telp": "085664800609",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200066",
+      "nama": "Aditya Fitriani",
+      "email": "aditya.fitriani66@univ.ac.id",
+      "telp": "081263388410",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200067",
+      "nama": "Bayu Rahmawati",
+      "email": "bayu.rahmawati67@univ.ac.id",
+      "telp": "082294088163",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200068",
+      "nama": "Candra Hidayah",
+      "email": "candra.hidayah68@univ.ac.id",
+      "telp": "085729178248",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200069",
+      "nama": "Diana Lestari",
+      "email": "diana.lestari69@univ.ac.id",
+      "telp": "089947470102",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200070",
+      "nama": "Elga Kusuma",
+      "email": "elga.kusuma70@univ.ac.id",
+      "telp": "081318822646",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200071",
+      "nama": "Farhan Ginting",
+      "email": "farhan.ginting71@univ.ac.id",
+      "telp": "085644418761",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200072",
+      "nama": "Guntur Tanjung",
+      "email": "guntur.tanjung72@univ.ac.id",
+      "telp": "081229540722",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200073",
+      "nama": "Hesti Simanjuntak",
+      "email": "hesti.simanjuntak73@univ.ac.id",
+      "telp": "082263247908",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200074",
+      "nama": "Irma Situmorang",
+      "email": "irma.situmorang74@univ.ac.id",
+      "telp": "085719411857",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "241080200075",
+      "nama": "Junaedi Nainggolan",
+      "email": "junaedi.nainggolan75@univ.ac.id",
+      "telp": "089959047496",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200076",
+      "nama": "Kurnia Manurung",
+      "email": "kurnia.manurung76@univ.ac.id",
+      "telp": "081360756610",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200077",
+      "nama": "Lestari Purba",
+      "email": "lestari.purba77@univ.ac.id",
+      "telp": "085636200827",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200078",
+      "nama": "Maulana Damanik",
+      "email": "maulana.damanik78@univ.ac.id",
+      "telp": "081231838040",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200079",
+      "nama": "Nanda Haloho",
+      "email": "nanda.haloho79@univ.ac.id",
+      "telp": "082262592002",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "241080200080",
+      "nama": "Oki Sibarani",
+      "email": "oki.sibarani80@univ.ac.id",
+      "telp": "085761200937",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200001",
+      "nama": "Maulana Lubis",
+      "email": "maulana.lubis1@univ.ac.id",
+      "telp": "085789043251",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200002",
+      "nama": "Nanda Pangaribuan",
+      "email": "nanda.pangaribuan2@univ.ac.id",
+      "telp": "089983715965",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200003",
+      "nama": "Oki Siahaan",
+      "email": "oki.siahaan3@univ.ac.id",
+      "telp": "081332493681",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200004",
+      "nama": "Pratama Nababan",
+      "email": "pratama.nababan4@univ.ac.id",
+      "telp": "085612361877",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200005",
+      "nama": "Riza Sinaga",
+      "email": "riza.sinaga5@univ.ac.id",
+      "telp": "081213734313",
+      "kelas": "IF-A1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200006",
+      "nama": "Saputra Silalahi",
+      "email": "saputra.silalahi6@univ.ac.id",
+      "telp": "082223202027",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200007",
+      "nama": "Tri Saragih",
+      "email": "tri.saragih7@univ.ac.id",
+      "telp": "085786800730",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200008",
+      "nama": "Wahyu Girsang",
+      "email": "wahyu.girsang8@univ.ac.id",
+      "telp": "089928768519",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200009",
+      "nama": "Yulia Tambunan",
+      "email": "yulia.tambunan9@univ.ac.id",
+      "telp": "081389309702",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200010",
+      "nama": "Zulfikar Pakpahan",
+      "email": "zulfikar.pakpahan10@univ.ac.id",
+      "telp": "085647201592",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200011",
+      "nama": "Hanif Simatupang",
+      "email": "hanif.simatupang11@univ.ac.id",
+      "telp": "081273830397",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200012",
+      "nama": "Kevin Nugroho",
+      "email": "kevin.nugroho12@univ.ac.id",
+      "telp": "082292470859",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200013",
+      "nama": "Aldo Ramadhan",
+      "email": "aldo.ramadhan13@univ.ac.id",
+      "telp": "085772984897",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200014",
+      "nama": "Bella Budiman",
+      "email": "bella.budiman14@univ.ac.id",
+      "telp": "089976725934",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200015",
+      "nama": "Daniel Cahyono",
+      "email": "daniel.cahyono15@univ.ac.id",
+      "telp": "081318184890",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200016",
+      "nama": "Elsa Raharjo",
+      "email": "elsa.raharjo16@univ.ac.id",
+      "telp": "085644673482",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200017",
+      "nama": "Felix Hadi",
+      "email": "felix.hadi17@univ.ac.id",
+      "telp": "081238629385",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200018",
+      "nama": "Grace Hasanah",
+      "email": "grace.hasanah18@univ.ac.id",
+      "telp": "082291085923",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200019",
+      "nama": "Hendra Sari",
+      "email": "hendra.sari19@univ.ac.id",
+      "telp": "085744302318",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200020",
+      "nama": "Ivan Fauzi",
+      "email": "ivan.fauzi20@univ.ac.id",
+      "telp": "089920987568",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200021",
+      "nama": "Jessica Wijaya",
+      "email": "jessica.wijaya21@univ.ac.id",
+      "telp": "081330209181",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200022",
+      "nama": "Kenji Siregar",
+      "email": "kenji.siregar22@univ.ac.id",
+      "telp": "085616228778",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200023",
+      "nama": "Lisa Harahap",
+      "email": "lisa.harahap23@univ.ac.id",
+      "telp": "081249832148",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200024",
+      "nama": "Mario Hutapea",
+      "email": "mario.hutapea24@univ.ac.id",
+      "telp": "082284093574",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200025",
+      "nama": "Nadia Panjaitan",
+      "email": "nadia.panjaitan25@univ.ac.id",
+      "telp": "085739608282",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200026",
+      "nama": "Oscar Sitorus",
+      "email": "oscar.sitorus26@univ.ac.id",
+      "telp": "089939314246",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200027",
+      "nama": "Putri Marpaung",
+      "email": "putri.marpaung27@univ.ac.id",
+      "telp": "081314433520",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200028",
+      "nama": "Randy Ambarita",
+      "email": "randy.ambarita28@univ.ac.id",
+      "telp": "085680207460",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200029",
+      "nama": "Siska Sipayung",
+      "email": "siska.sipayung29@univ.ac.id",
+      "telp": "081284161374",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200030",
+      "nama": "Tedy Sumbayak",
+      "email": "tedy.sumbayak30@univ.ac.id",
+      "telp": "082254023980",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200031",
+      "nama": "Ulfa Manik",
+      "email": "ulfa.manik31@univ.ac.id",
+      "telp": "085749151290",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200032",
+      "nama": "Vina Silaen",
+      "email": "vina.silaen32@univ.ac.id",
+      "telp": "089942782015",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200033",
+      "nama": "Wendy Sitompul",
+      "email": "wendy.sitompul33@univ.ac.id",
+      "telp": "081310336962",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200034",
+      "nama": "Yanto Pratama",
+      "email": "yanto.pratama34@univ.ac.id",
+      "telp": "085629833030",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200035",
+      "nama": "Ahmad Wibowo",
+      "email": "ahmad.wibowo35@univ.ac.id",
+      "telp": "081233372602",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200036",
+      "nama": "Budi Gunawan",
+      "email": "budi.gunawan36@univ.ac.id",
+      "telp": "082292238422",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200037",
+      "nama": "Citra Susanto",
+      "email": "citra.susanto37@univ.ac.id",
+      "telp": "085787455399",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200038",
+      "nama": "Dwi Utomo",
+      "email": "dwi.utomo38@univ.ac.id",
+      "telp": "089929377962",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200039",
+      "nama": "Eko Hartono",
+      "email": "eko.hartono39@univ.ac.id",
+      "telp": "081311652915",
+      "kelas": "IF-B2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200040",
+      "nama": "Fajar Fitriani",
+      "email": "fajar.fitriani40@univ.ac.id",
+      "telp": "085662924132",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200041",
+      "nama": "Gita Rahmawati",
+      "email": "gita.rahmawati41@univ.ac.id",
+      "telp": "081289401427",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200042",
+      "nama": "Hari Hidayah",
+      "email": "hari.hidayah42@univ.ac.id",
+      "telp": "082253169875",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200043",
+      "nama": "Indah Lestari",
+      "email": "indah.lestari43@univ.ac.id",
+      "telp": "085734501967",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200044",
+      "nama": "Joko Kusuma",
+      "email": "joko.kusuma44@univ.ac.id",
+      "telp": "089961569348",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200045",
+      "nama": "Kartika Ginting",
+      "email": "kartika.ginting45@univ.ac.id",
+      "telp": "081349174571",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200046",
+      "nama": "Lukman Tanjung",
+      "email": "lukman.tanjung46@univ.ac.id",
+      "telp": "085698479767",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200047",
+      "nama": "Mega Simanjuntak",
+      "email": "mega.simanjuntak47@univ.ac.id",
+      "telp": "081219529883",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200048",
+      "nama": "Nur Situmorang",
+      "email": "nur.situmorang48@univ.ac.id",
+      "telp": "082284526606",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200049",
+      "nama": "Ony Nainggolan",
+      "email": "ony.nainggolan49@univ.ac.id",
+      "telp": "085797233829",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200050",
+      "nama": "Putu Manurung",
+      "email": "putu.manurung50@univ.ac.id",
+      "telp": "089981914603",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200051",
+      "nama": "Rian Purba",
+      "email": "rian.purba51@univ.ac.id",
+      "telp": "081362189102",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200052",
+      "nama": "Siti Damanik",
+      "email": "siti.damanik52@univ.ac.id",
+      "telp": "085677184960",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200053",
+      "nama": "Teguh Haloho",
+      "email": "teguh.haloho53@univ.ac.id",
+      "telp": "081282008234",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200054",
+      "nama": "Utami Sibarani",
+      "email": "utami.sibarani54@univ.ac.id",
+      "telp": "082285738315",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200055",
+      "nama": "Vera Sidabutar",
+      "email": "vera.sidabutar55@univ.ac.id",
+      "telp": "085723940097",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200056",
+      "nama": "Wawan Hidayat",
+      "email": "wawan.hidayat56@univ.ac.id",
+      "telp": "089922588516",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200057",
+      "nama": "Yeni Setiawan",
+      "email": "yeni.setiawan57@univ.ac.id",
+      "telp": "081357334331",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200058",
+      "nama": "Zainal Saputro",
+      "email": "zainal.saputro58@univ.ac.id",
+      "telp": "085684801471",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200059",
+      "nama": "Aditya Kurniawan",
+      "email": "aditya.kurniawan59@univ.ac.id",
+      "telp": "081252434737",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200060",
+      "nama": "Bayu Prasetyo",
+      "email": "bayu.prasetyo60@univ.ac.id",
+      "telp": "082233471441",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200061",
+      "nama": "Candra Subagyo",
+      "email": "candra.subagyo61@univ.ac.id",
+      "telp": "085795508831",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200062",
+      "nama": "Diana Wulandari",
+      "email": "diana.wulandari62@univ.ac.id",
+      "telp": "089920793216",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200063",
+      "nama": "Elga Astuti",
+      "email": "elga.astuti63@univ.ac.id",
+      "telp": "081338456250",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200064",
+      "nama": "Farhan Safitri",
+      "email": "farhan.safitri64@univ.ac.id",
+      "telp": "085694036029",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "251080200065",
+      "nama": "Guntur Santoso",
+      "email": "guntur.santoso65@univ.ac.id",
+      "telp": "081263278543",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200066",
+      "nama": "Hesti Saputra",
+      "email": "hesti.saputra66@univ.ac.id",
+      "telp": "082266114879",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200067",
+      "nama": "Irma Nasution",
+      "email": "irma.nasution67@univ.ac.id",
+      "telp": "085787355496",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200068",
+      "nama": "Junaedi Lubis",
+      "email": "junaedi.lubis68@univ.ac.id",
+      "telp": "089951818247",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200069",
+      "nama": "Kurnia Pangaribuan",
+      "email": "kurnia.pangaribuan69@univ.ac.id",
+      "telp": "081376600785",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200070",
+      "nama": "Lestari Siahaan",
+      "email": "lestari.siahaan70@univ.ac.id",
+      "telp": "085674235477",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200071",
+      "nama": "Maulana Nababan",
+      "email": "maulana.nababan71@univ.ac.id",
+      "telp": "081256167742",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200072",
+      "nama": "Nanda Sinaga",
+      "email": "nanda.sinaga72@univ.ac.id",
+      "telp": "082214990155",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200073",
+      "nama": "Oki Silalahi",
+      "email": "oki.silalahi73@univ.ac.id",
+      "telp": "085786374199",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200074",
+      "nama": "Pratama Saragih",
+      "email": "pratama.saragih74@univ.ac.id",
+      "telp": "089953174141",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200075",
+      "nama": "Riza Girsang",
+      "email": "riza.girsang75@univ.ac.id",
+      "telp": "081373499057",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200076",
+      "nama": "Saputra Tambunan",
+      "email": "saputra.tambunan76@univ.ac.id",
+      "telp": "085639638158",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200077",
+      "nama": "Tri Pakpahan",
+      "email": "tri.pakpahan77@univ.ac.id",
+      "telp": "081272804034",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200078",
+      "nama": "Wahyu Simatupang",
+      "email": "wahyu.simatupang78@univ.ac.id",
+      "telp": "082285457429",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200079",
+      "nama": "Yulia Nugroho",
+      "email": "yulia.nugroho79@univ.ac.id",
+      "telp": "085730364332",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "251080200080",
+      "nama": "Zulfikar Ramadhan",
+      "email": "zulfikar.ramadhan80@univ.ac.id",
+      "telp": "089979769729",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200001",
+      "nama": "Wahyu Marpaung",
+      "email": "wahyu.marpaung1@univ.ac.id",
+      "telp": "089921817112",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200002",
+      "nama": "Yulia Ambarita",
+      "email": "yulia.ambarita2@univ.ac.id",
+      "telp": "081380968637",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200003",
+      "nama": "Zulfikar Sipayung",
+      "email": "zulfikar.sipayung3@univ.ac.id",
+      "telp": "085617380012",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200004",
+      "nama": "Hanif Sumbayak",
+      "email": "hanif.sumbayak4@univ.ac.id",
+      "telp": "081289549097",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200005",
+      "nama": "Kevin Manik",
+      "email": "kevin.manik5@univ.ac.id",
+      "telp": "082253798569",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200006",
+      "nama": "Aldo Silaen",
+      "email": "aldo.silaen6@univ.ac.id",
+      "telp": "085754285994",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200007",
+      "nama": "Bella Sitompul",
+      "email": "bella.sitompul7@univ.ac.id",
+      "telp": "089947743491",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200008",
+      "nama": "Daniel Pratama",
+      "email": "daniel.pratama8@univ.ac.id",
+      "telp": "081326246528",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200009",
+      "nama": "Elsa Wibowo",
+      "email": "elsa.wibowo9@univ.ac.id",
+      "telp": "085681957665",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200010",
+      "nama": "Felix Gunawan",
+      "email": "felix.gunawan10@univ.ac.id",
+      "telp": "081244129967",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200011",
+      "nama": "Grace Susanto",
+      "email": "grace.susanto11@univ.ac.id",
+      "telp": "082229317254",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200012",
+      "nama": "Hendra Utomo",
+      "email": "hendra.utomo12@univ.ac.id",
+      "telp": "085751298982",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200013",
+      "nama": "Ivan Hartono",
+      "email": "ivan.hartono13@univ.ac.id",
+      "telp": "089937612129",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200014",
+      "nama": "Jessica Fitriani",
+      "email": "jessica.fitriani14@univ.ac.id",
+      "telp": "081352115083",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200015",
+      "nama": "Kenji Rahmawati",
+      "email": "kenji.rahmawati15@univ.ac.id",
+      "telp": "085636880331",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200016",
+      "nama": "Lisa Hidayah",
+      "email": "lisa.hidayah16@univ.ac.id",
+      "telp": "081241519790",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200017",
+      "nama": "Mario Lestari",
+      "email": "mario.lestari17@univ.ac.id",
+      "telp": "082241871148",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200018",
+      "nama": "Nadia Kusuma",
+      "email": "nadia.kusuma18@univ.ac.id",
+      "telp": "085779570716",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200019",
+      "nama": "Oscar Ginting",
+      "email": "oscar.ginting19@univ.ac.id",
+      "telp": "089937662778",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200020",
+      "nama": "Putri Tanjung",
+      "email": "putri.tanjung20@univ.ac.id",
+      "telp": "081328860239",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200021",
+      "nama": "Randy Simanjuntak",
+      "email": "randy.simanjuntak21@univ.ac.id",
+      "telp": "085634056488",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200022",
+      "nama": "Siska Situmorang",
+      "email": "siska.situmorang22@univ.ac.id",
+      "telp": "081279949712",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200023",
+      "nama": "Tedy Nainggolan",
+      "email": "tedy.nainggolan23@univ.ac.id",
+      "telp": "082284880627",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200024",
+      "nama": "Ulfa Manurung",
+      "email": "ulfa.manurung24@univ.ac.id",
+      "telp": "085768713391",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200025",
+      "nama": "Vina Purba",
+      "email": "vina.purba25@univ.ac.id",
+      "telp": "089942164547",
+      "kelas": "IF-A2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200026",
+      "nama": "Wendy Damanik",
+      "email": "wendy.damanik26@univ.ac.id",
+      "telp": "081379930555",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200027",
+      "nama": "Yanto Haloho",
+      "email": "yanto.haloho27@univ.ac.id",
+      "telp": "085663047357",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200028",
+      "nama": "Ahmad Sibarani",
+      "email": "ahmad.sibarani28@univ.ac.id",
+      "telp": "081241835669",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200029",
+      "nama": "Budi Sidabutar",
+      "email": "budi.sidabutar29@univ.ac.id",
+      "telp": "082232779625",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200030",
+      "nama": "Citra Hidayat",
+      "email": "citra.hidayat30@univ.ac.id",
+      "telp": "085772072267",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200031",
+      "nama": "Dwi Setiawan",
+      "email": "dwi.setiawan31@univ.ac.id",
+      "telp": "089940805145",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200032",
+      "nama": "Eko Saputro",
+      "email": "eko.saputro32@univ.ac.id",
+      "telp": "081345221776",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200033",
+      "nama": "Fajar Kurniawan",
+      "email": "fajar.kurniawan33@univ.ac.id",
+      "telp": "085626663192",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200034",
+      "nama": "Gita Prasetyo",
+      "email": "gita.prasetyo34@univ.ac.id",
+      "telp": "081298925750",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200035",
+      "nama": "Hari Subagyo",
+      "email": "hari.subagyo35@univ.ac.id",
+      "telp": "082280933389",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200036",
+      "nama": "Indah Wulandari",
+      "email": "indah.wulandari36@univ.ac.id",
+      "telp": "085795705544",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200037",
+      "nama": "Joko Astuti",
+      "email": "joko.astuti37@univ.ac.id",
+      "telp": "089960274550",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200038",
+      "nama": "Kartika Safitri",
+      "email": "kartika.safitri38@univ.ac.id",
+      "telp": "081318236092",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200039",
+      "nama": "Lukman Santoso",
+      "email": "lukman.santoso39@univ.ac.id",
+      "telp": "085627249861",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200040",
+      "nama": "Mega Saputra",
+      "email": "mega.saputra40@univ.ac.id",
+      "telp": "081274882310",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200041",
+      "nama": "Nur Nasution",
+      "email": "nur.nasution41@univ.ac.id",
+      "telp": "082223748678",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200042",
+      "nama": "Ony Lubis",
+      "email": "ony.lubis42@univ.ac.id",
+      "telp": "085765175839",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200043",
+      "nama": "Putu Pangaribuan",
+      "email": "putu.pangaribuan43@univ.ac.id",
+      "telp": "089984795623",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200044",
+      "nama": "Rian Siahaan",
+      "email": "rian.siahaan44@univ.ac.id",
+      "telp": "081334219800",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200045",
+      "nama": "Siti Nababan",
+      "email": "siti.nababan45@univ.ac.id",
+      "telp": "085620970122",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200046",
+      "nama": "Teguh Sinaga",
+      "email": "teguh.sinaga46@univ.ac.id",
+      "telp": "081258172632",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200047",
+      "nama": "Utami Silalahi",
+      "email": "utami.silalahi47@univ.ac.id",
+      "telp": "082286799543",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200048",
+      "nama": "Vera Saragih",
+      "email": "vera.saragih48@univ.ac.id",
+      "telp": "085756464591",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200049",
+      "nama": "Wawan Girsang",
+      "email": "wawan.girsang49@univ.ac.id",
+      "telp": "089955905040",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200050",
+      "nama": "Yeni Tambunan",
+      "email": "yeni.tambunan50@univ.ac.id",
+      "telp": "081388880086",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200051",
+      "nama": "Zainal Pakpahan",
+      "email": "zainal.pakpahan51@univ.ac.id",
+      "telp": "085669169271",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200052",
+      "nama": "Aditya Simatupang",
+      "email": "aditya.simatupang52@univ.ac.id",
+      "telp": "081292233337",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200053",
+      "nama": "Bayu Nugroho",
+      "email": "bayu.nugroho53@univ.ac.id",
+      "telp": "082257294842",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200054",
+      "nama": "Candra Ramadhan",
+      "email": "candra.ramadhan54@univ.ac.id",
+      "telp": "085724133570",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200055",
+      "nama": "Diana Budiman",
+      "email": "diana.budiman55@univ.ac.id",
+      "telp": "089970194939",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200056",
+      "nama": "Elga Cahyono",
+      "email": "elga.cahyono56@univ.ac.id",
+      "telp": "081348510888",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200057",
+      "nama": "Farhan Raharjo",
+      "email": "farhan.raharjo57@univ.ac.id",
+      "telp": "085614168429",
+      "kelas": "IF-C2",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200058",
+      "nama": "Guntur Hadi",
+      "email": "guntur.hadi58@univ.ac.id",
+      "telp": "081225309644",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200059",
+      "nama": "Hesti Hasanah",
+      "email": "hesti.hasanah59@univ.ac.id",
+      "telp": "082255753986",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200060",
+      "nama": "Irma Sari",
+      "email": "irma.sari60@univ.ac.id",
+      "telp": "085714343704",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200061",
+      "nama": "Junaedi Fauzi",
+      "email": "junaedi.fauzi61@univ.ac.id",
+      "telp": "089974887326",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200062",
+      "nama": "Kurnia Wijaya",
+      "email": "kurnia.wijaya62@univ.ac.id",
+      "telp": "081313572592",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200063",
+      "nama": "Lestari Siregar",
+      "email": "lestari.siregar63@univ.ac.id",
+      "telp": "085642867938",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200064",
+      "nama": "Maulana Harahap",
+      "email": "maulana.harahap64@univ.ac.id",
+      "telp": "081280866790",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200065",
+      "nama": "Nanda Hutapea",
+      "email": "nanda.hutapea65@univ.ac.id",
+      "telp": "082212506702",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200066",
+      "nama": "Oki Panjaitan",
+      "email": "oki.panjaitan66@univ.ac.id",
+      "telp": "085787762390",
+      "kelas": "IF-C1",
+      "role": "ASLAB"
+    },
+    {
+      "nim": "261080200067",
+      "nama": "Pratama Sitorus",
+      "email": "pratama.sitorus67@univ.ac.id",
+      "telp": "089983792012",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200068",
+      "nama": "Riza Marpaung",
+      "email": "riza.marpaung68@univ.ac.id",
+      "telp": "081318474096",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200069",
+      "nama": "Saputra Ambarita",
+      "email": "saputra.ambarita69@univ.ac.id",
+      "telp": "085612247120",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200070",
+      "nama": "Tri Sipayung",
+      "email": "tri.sipayung70@univ.ac.id",
+      "telp": "081211530491",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200071",
+      "nama": "Wahyu Sumbayak",
+      "email": "wahyu.sumbayak71@univ.ac.id",
+      "telp": "082257737918",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200072",
+      "nama": "Yulia Manik",
+      "email": "yulia.manik72@univ.ac.id",
+      "telp": "085759098340",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200073",
+      "nama": "Zulfikar Silaen",
+      "email": "zulfikar.silaen73@univ.ac.id",
+      "telp": "089923050311",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200074",
+      "nama": "Hanif Sitompul",
+      "email": "hanif.sitompul74@univ.ac.id",
+      "telp": "081387073044",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200075",
+      "nama": "Kevin Pratama",
+      "email": "kevin.pratama75@univ.ac.id",
+      "telp": "085682331014",
+      "kelas": "IF-C2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200076",
+      "nama": "Aldo Wibowo",
+      "email": "aldo.wibowo76@univ.ac.id",
+      "telp": "081217387383",
+      "kelas": "IF-A1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200077",
+      "nama": "Bella Gunawan",
+      "email": "bella.gunawan77@univ.ac.id",
+      "telp": "082279162155",
+      "kelas": "IF-B1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200078",
+      "nama": "Daniel Susanto",
+      "email": "daniel.susanto78@univ.ac.id",
+      "telp": "085762103715",
+      "kelas": "IF-C1",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200079",
+      "nama": "Elsa Utomo",
+      "email": "elsa.utomo79@univ.ac.id",
+      "telp": "089951465912",
+      "kelas": "IF-A2",
+      "role": "STUDENT"
+    },
+    {
+      "nim": "261080200080",
+      "nama": "Felix Hartono",
+      "email": "felix.hartono80@univ.ac.id",
+      "telp": "081359180978",
+      "kelas": "IF-B2",
+      "role": "STUDENT"
+    }
+  ],
+  "t_aslab": [
+    {
+      "id_aslab": "ASLAB-20-01",
+      "nim": "201080200003",
+      "password": "aslab",
+      "nama": "Dwi Saragih"
+    },
+    {
+      "id_aslab": "ASLAB-20-02",
+      "nim": "201080200022",
+      "password": "aslab",
+      "nama": "Yeni Sitorus"
+    },
+    {
+      "id_aslab": "ASLAB-20-03",
+      "nim": "201080200030",
+      "password": "aslab",
+      "nama": "Guntur Pratama"
+    },
+    {
+      "id_aslab": "ASLAB-20-04",
+      "nim": "201080200044",
+      "password": "aslab",
+      "nama": "Yulia Situmorang"
+    },
+    {
+      "id_aslab": "ASLAB-20-05",
+      "nim": "201080200057",
+      "password": "aslab",
+      "nama": "Kenji Subagyo"
+    },
+    {
+      "id_aslab": "ASLAB-20-06",
+      "nim": "201080200066",
+      "password": "aslab",
+      "nama": "Ulfa Siahaan"
+    },
+    {
+      "id_aslab": "ASLAB-21-01",
+      "nim": "211080200002",
+      "password": "aslab",
+      "nama": "Joko Silaen"
+    },
+    {
+      "id_aslab": "ASLAB-21-02",
+      "nim": "211080200011",
+      "password": "aslab",
+      "nama": "Teguh Rahmawati"
+    },
+    {
+      "id_aslab": "ASLAB-21-03",
+      "nim": "211080200017",
+      "password": "aslab",
+      "nama": "Aditya Simanjuntak"
+    },
+    {
+      "id_aslab": "ASLAB-21-04",
+      "nim": "211080200020",
+      "password": "aslab",
+      "nama": "Diana Manurung"
+    },
+    {
+      "id_aslab": "ASLAB-21-05",
+      "nim": "211080200033",
+      "password": "aslab",
+      "nama": "Riza Astuti"
+    },
+    {
+      "id_aslab": "ASLAB-21-06",
+      "nim": "211080200040",
+      "password": "aslab",
+      "nama": "Kevin Siahaan"
+    },
+    {
+      "id_aslab": "ASLAB-21-07",
+      "nim": "211080200072",
+      "password": "aslab",
+      "nama": "Joko Wibowo"
+    },
+    {
+      "id_aslab": "ASLAB-21-08",
+      "nim": "211080200076",
+      "password": "aslab",
+      "nama": "Nur Hartono"
+    },
+    {
+      "id_aslab": "ASLAB-22-01",
+      "nim": "221080200004",
+      "password": "aslab",
+      "nama": "Teguh Prasetyo"
+    },
+    {
+      "id_aslab": "ASLAB-22-02",
+      "nim": "221080200018",
+      "password": "aslab",
+      "nama": "Irma Saragih"
+    },
+    {
+      "id_aslab": "ASLAB-22-03",
+      "nim": "221080200036",
+      "password": "aslab",
+      "nama": "Daniel Panjaitan"
+    },
+    {
+      "id_aslab": "ASLAB-22-04",
+      "nim": "221080200041",
+      "password": "aslab",
+      "nama": "Ivan Sumbayak"
+    },
+    {
+      "id_aslab": "ASLAB-22-05",
+      "nim": "221080200044",
+      "password": "aslab",
+      "nama": "Lisa Sitompul"
+    },
+    {
+      "id_aslab": "ASLAB-22-06",
+      "nim": "221080200051",
+      "password": "aslab",
+      "nama": "Tedy Fitriani"
+    },
+    {
+      "id_aslab": "ASLAB-22-07",
+      "nim": "221080200064",
+      "password": "aslab",
+      "nama": "Indah Haloho"
+    },
+    {
+      "id_aslab": "ASLAB-22-08",
+      "nim": "221080200073",
+      "password": "aslab",
+      "nama": "Siti Wulandari"
+    },
+    {
+      "id_aslab": "ASLAB-23-01",
+      "nim": "231080200003",
+      "password": "aslab",
+      "nama": "Aditya Hasanah"
+    },
+    {
+      "id_aslab": "ASLAB-23-02",
+      "nim": "231080200005",
+      "password": "aslab",
+      "nama": "Candra Fauzi"
+    },
+    {
+      "id_aslab": "ASLAB-23-03",
+      "nim": "231080200037",
+      "password": "aslab",
+      "nama": "Lisa Damanik"
+    },
+    {
+      "id_aslab": "ASLAB-23-04",
+      "nim": "231080200042",
+      "password": "aslab",
+      "nama": "Randy Setiawan"
+    },
+    {
+      "id_aslab": "ASLAB-23-05",
+      "nim": "231080200046",
+      "password": "aslab",
+      "nama": "Vina Subagyo"
+    },
+    {
+      "id_aslab": "ASLAB-23-06",
+      "nim": "231080200057",
+      "password": "aslab",
+      "nama": "Indah Sinaga"
+    },
+    {
+      "id_aslab": "ASLAB-23-07",
+      "nim": "231080200076",
+      "password": "aslab",
+      "nama": "Diana Hutapea"
+    },
+    {
+      "id_aslab": "ASLAB-23-08",
+      "nim": "231080200080",
+      "password": "aslab",
+      "nama": "Hesti Ambarita"
+    },
+    {
+      "id_aslab": "ASLAB-24-01",
+      "nim": "241080200029",
+      "password": "aslab",
+      "nama": "Kenji Siahaan"
+    },
+    {
+      "id_aslab": "ASLAB-24-02",
+      "nim": "241080200034",
+      "password": "aslab",
+      "nama": "Putri Girsang"
+    },
+    {
+      "id_aslab": "ASLAB-24-03",
+      "nim": "241080200049",
+      "password": "aslab",
+      "nama": "Hari Harahap"
+    },
+    {
+      "id_aslab": "ASLAB-24-04",
+      "nim": "241080200056",
+      "password": "aslab",
+      "nama": "Ony Sumbayak"
+    },
+    {
+      "id_aslab": "ASLAB-24-05",
+      "nim": "241080200060",
+      "password": "aslab",
+      "nama": "Teguh Pratama"
+    },
+    {
+      "id_aslab": "ASLAB-24-06",
+      "nim": "241080200064",
+      "password": "aslab",
+      "nama": "Yeni Utomo"
+    },
+    {
+      "id_aslab": "ASLAB-24-07",
+      "nim": "241080200074",
+      "password": "aslab",
+      "nama": "Irma Situmorang"
+    },
+    {
+      "id_aslab": "ASLAB-25-01",
+      "nim": "251080200002",
+      "password": "aslab",
+      "nama": "Nanda Pangaribuan"
+    },
+    {
+      "id_aslab": "ASLAB-25-02",
+      "nim": "251080200005",
+      "password": "aslab",
+      "nama": "Riza Sinaga"
+    },
+    {
+      "id_aslab": "ASLAB-25-03",
+      "nim": "251080200013",
+      "password": "aslab",
+      "nama": "Aldo Ramadhan"
+    },
+    {
+      "id_aslab": "ASLAB-25-04",
+      "nim": "251080200015",
+      "password": "aslab",
+      "nama": "Daniel Cahyono"
+    },
+    {
+      "id_aslab": "ASLAB-25-05",
+      "nim": "251080200019",
+      "password": "aslab",
+      "nama": "Hendra Sari"
+    },
+    {
+      "id_aslab": "ASLAB-25-06",
+      "nim": "251080200039",
+      "password": "aslab",
+      "nama": "Eko Hartono"
+    },
+    {
+      "id_aslab": "ASLAB-25-07",
+      "nim": "251080200052",
+      "password": "aslab",
+      "nama": "Siti Damanik"
+    },
+    {
+      "id_aslab": "ASLAB-25-08",
+      "nim": "251080200064",
+      "password": "aslab",
+      "nama": "Farhan Safitri"
+    },
+    {
+      "id_aslab": "ASLAB-26-01",
+      "nim": "261080200025",
+      "password": "aslab",
+      "nama": "Vina Purba"
+    },
+    {
+      "id_aslab": "ASLAB-26-02",
+      "nim": "261080200039",
+      "password": "aslab",
+      "nama": "Lukman Santoso"
+    },
+    {
+      "id_aslab": "ASLAB-26-03",
+      "nim": "261080200048",
+      "password": "aslab",
+      "nama": "Vera Saragih"
+    },
+    {
+      "id_aslab": "ASLAB-26-04",
+      "nim": "261080200054",
+      "password": "aslab",
+      "nama": "Candra Ramadhan"
+    },
+    {
+      "id_aslab": "ASLAB-26-05",
+      "nim": "261080200057",
+      "password": "aslab",
+      "nama": "Farhan Raharjo"
+    },
+    {
+      "id_aslab": "ASLAB-26-06",
+      "nim": "261080200066",
+      "password": "aslab",
+      "nama": "Oki Panjaitan"
+    }
+  ],
+  "t_lab": [
+    {
+      "id_lab": "LAB-01",
+      "nama_lab": "Laboratorium Rekayasa Perangkat Lunak (RPL)",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-02",
+      "nama_lab": "Laboratorium Jaringan & Keamanan Komputer",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-03",
+      "nama_lab": "Laboratorium Multimedia & Kecerdasan Buatan (AI)",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-04",
+      "nama_lab": "Laboratorium Pemrograman & Komputasi Awan (Cloud)",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-05",
+      "nama_lab": "Laboratorium Sistem Tertanam (Embedded Systems) & IoT",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-06",
+      "nama_lab": "Laboratorium Sistem Informasi & Basis Data",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-07",
+      "nama_lab": "Laboratorium Keamanan Siber & Kriptografi",
+      "status_lab": "OPEN"
+    },
+    {
+      "id_lab": "LAB-08",
+      "nama_lab": "Laboratorium Komputer Dasar & Grafika Komputer",
+      "status_lab": "OPEN"
+    }
+  ],
+  "t_pc": [
+    {
+      "id_pc": "LAB-01-PC-01",
+      "id_lab": "LAB-01",
+      "no_pc": 1,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.10.11",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-02",
+      "id_lab": "LAB-01",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.12",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-03",
+      "id_lab": "LAB-01",
+      "no_pc": 3,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.13",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-04",
+      "id_lab": "LAB-01",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.14",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-05",
+      "id_lab": "LAB-01",
+      "no_pc": 5,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.15",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-06",
+      "id_lab": "LAB-01",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.16",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-07",
+      "id_lab": "LAB-01",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.17",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-08",
+      "id_lab": "LAB-01",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.18",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-09",
+      "id_lab": "LAB-01",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.19",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-10",
+      "id_lab": "LAB-01",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.20",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-11",
+      "id_lab": "LAB-01",
+      "no_pc": 11,
+      "status": "MAINTENANCE",
+      "ip_address": "192.168.10.21",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-12",
+      "id_lab": "LAB-01",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.22",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-13",
+      "id_lab": "LAB-01",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.23",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-14",
+      "id_lab": "LAB-01",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.24",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-15",
+      "id_lab": "LAB-01",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.25",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-16",
+      "id_lab": "LAB-01",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.26",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-17",
+      "id_lab": "LAB-01",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.27",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-18",
+      "id_lab": "LAB-01",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.28",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-19",
+      "id_lab": "LAB-01",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.29",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-01-PC-20",
+      "id_lab": "LAB-01",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.10.30",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-01",
+      "id_lab": "LAB-02",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.11",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-02",
+      "id_lab": "LAB-02",
+      "no_pc": 2,
+      "status": "MAINTENANCE",
+      "ip_address": "192.168.20.12",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-03",
+      "id_lab": "LAB-02",
+      "no_pc": 3,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.20.13",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-04",
+      "id_lab": "LAB-02",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.14",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-05",
+      "id_lab": "LAB-02",
+      "no_pc": 5,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.15",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-06",
+      "id_lab": "LAB-02",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.16",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-07",
+      "id_lab": "LAB-02",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.17",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-08",
+      "id_lab": "LAB-02",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.18",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-09",
+      "id_lab": "LAB-02",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.19",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-10",
+      "id_lab": "LAB-02",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.20",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-11",
+      "id_lab": "LAB-02",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.21",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-12",
+      "id_lab": "LAB-02",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.22",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-13",
+      "id_lab": "LAB-02",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.23",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-14",
+      "id_lab": "LAB-02",
+      "no_pc": 14,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.20.24",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-15",
+      "id_lab": "LAB-02",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.25",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-16",
+      "id_lab": "LAB-02",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.26",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-17",
+      "id_lab": "LAB-02",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.27",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-18",
+      "id_lab": "LAB-02",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.28",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-19",
+      "id_lab": "LAB-02",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.29",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-02-PC-20",
+      "id_lab": "LAB-02",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.20.30",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-01",
+      "id_lab": "LAB-03",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.11",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-02",
+      "id_lab": "LAB-03",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.12",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-03",
+      "id_lab": "LAB-03",
+      "no_pc": 3,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.13",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-04",
+      "id_lab": "LAB-03",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.14",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-05",
+      "id_lab": "LAB-03",
+      "no_pc": 5,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.15",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-06",
+      "id_lab": "LAB-03",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.16",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-07",
+      "id_lab": "LAB-03",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.17",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-08",
+      "id_lab": "LAB-03",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.18",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-09",
+      "id_lab": "LAB-03",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.19",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-10",
+      "id_lab": "LAB-03",
+      "no_pc": 10,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.30.20",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-11",
+      "id_lab": "LAB-03",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.21",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-12",
+      "id_lab": "LAB-03",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.22",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-13",
+      "id_lab": "LAB-03",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.23",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-14",
+      "id_lab": "LAB-03",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.24",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-15",
+      "id_lab": "LAB-03",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.25",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-16",
+      "id_lab": "LAB-03",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.26",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-17",
+      "id_lab": "LAB-03",
+      "no_pc": 17,
+      "status": "MAINTENANCE",
+      "ip_address": "192.168.30.27",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-18",
+      "id_lab": "LAB-03",
+      "no_pc": 18,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.30.28",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-19",
+      "id_lab": "LAB-03",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.30.29",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-03-PC-20",
+      "id_lab": "LAB-03",
+      "no_pc": 20,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.30.30",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-01",
+      "id_lab": "LAB-04",
+      "no_pc": 1,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.40.11",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-02",
+      "id_lab": "LAB-04",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.12",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-03",
+      "id_lab": "LAB-04",
+      "no_pc": 3,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.40.13",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-04",
+      "id_lab": "LAB-04",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.14",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-05",
+      "id_lab": "LAB-04",
+      "no_pc": 5,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.15",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-06",
+      "id_lab": "LAB-04",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.16",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-07",
+      "id_lab": "LAB-04",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.17",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-08",
+      "id_lab": "LAB-04",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.18",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-09",
+      "id_lab": "LAB-04",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.19",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-10",
+      "id_lab": "LAB-04",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.20",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-11",
+      "id_lab": "LAB-04",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.21",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-12",
+      "id_lab": "LAB-04",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.22",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-13",
+      "id_lab": "LAB-04",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.23",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-14",
+      "id_lab": "LAB-04",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.24",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-15",
+      "id_lab": "LAB-04",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.25",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-16",
+      "id_lab": "LAB-04",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.26",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-17",
+      "id_lab": "LAB-04",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.27",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-18",
+      "id_lab": "LAB-04",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.28",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-19",
+      "id_lab": "LAB-04",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.29",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-04-PC-20",
+      "id_lab": "LAB-04",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.40.30",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-01",
+      "id_lab": "LAB-05",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.11",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-02",
+      "id_lab": "LAB-05",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.12",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-03",
+      "id_lab": "LAB-05",
+      "no_pc": 3,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.13",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-04",
+      "id_lab": "LAB-05",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.14",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-05",
+      "id_lab": "LAB-05",
+      "no_pc": 5,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.15",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-06",
+      "id_lab": "LAB-05",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.16",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-07",
+      "id_lab": "LAB-05",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.17",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-08",
+      "id_lab": "LAB-05",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.18",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-09",
+      "id_lab": "LAB-05",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.19",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-10",
+      "id_lab": "LAB-05",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.20",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-11",
+      "id_lab": "LAB-05",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.21",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-12",
+      "id_lab": "LAB-05",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.22",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-13",
+      "id_lab": "LAB-05",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.23",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-14",
+      "id_lab": "LAB-05",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.24",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-15",
+      "id_lab": "LAB-05",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.25",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-16",
+      "id_lab": "LAB-05",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.26",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-17",
+      "id_lab": "LAB-05",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.27",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-18",
+      "id_lab": "LAB-05",
+      "no_pc": 18,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.50.28",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-19",
+      "id_lab": "LAB-05",
+      "no_pc": 19,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.50.29",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-05-PC-20",
+      "id_lab": "LAB-05",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.50.30",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-01",
+      "id_lab": "LAB-06",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.11",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-02",
+      "id_lab": "LAB-06",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.12",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-03",
+      "id_lab": "LAB-06",
+      "no_pc": 3,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.13",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-04",
+      "id_lab": "LAB-06",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.14",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-05",
+      "id_lab": "LAB-06",
+      "no_pc": 5,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.60.15",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-06",
+      "id_lab": "LAB-06",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.16",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-07",
+      "id_lab": "LAB-06",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.17",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-08",
+      "id_lab": "LAB-06",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.18",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-09",
+      "id_lab": "LAB-06",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.19",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-10",
+      "id_lab": "LAB-06",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.20",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-11",
+      "id_lab": "LAB-06",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.21",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-12",
+      "id_lab": "LAB-06",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.22",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-13",
+      "id_lab": "LAB-06",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.23",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-14",
+      "id_lab": "LAB-06",
+      "no_pc": 14,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.60.24",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-15",
+      "id_lab": "LAB-06",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.25",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-16",
+      "id_lab": "LAB-06",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.26",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-17",
+      "id_lab": "LAB-06",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.27",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-18",
+      "id_lab": "LAB-06",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.28",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-19",
+      "id_lab": "LAB-06",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.29",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-06-PC-20",
+      "id_lab": "LAB-06",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.60.30",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-01",
+      "id_lab": "LAB-07",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.11",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-02",
+      "id_lab": "LAB-07",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.12",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-03",
+      "id_lab": "LAB-07",
+      "no_pc": 3,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.70.13",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-04",
+      "id_lab": "LAB-07",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.14",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-05",
+      "id_lab": "LAB-07",
+      "no_pc": 5,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.70.15",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-06",
+      "id_lab": "LAB-07",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.16",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-07",
+      "id_lab": "LAB-07",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.17",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-08",
+      "id_lab": "LAB-07",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.18",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-09",
+      "id_lab": "LAB-07",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.19",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-10",
+      "id_lab": "LAB-07",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.20",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-11",
+      "id_lab": "LAB-07",
+      "no_pc": 11,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.70.21",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-12",
+      "id_lab": "LAB-07",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.22",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-13",
+      "id_lab": "LAB-07",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.23",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-14",
+      "id_lab": "LAB-07",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.24",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-15",
+      "id_lab": "LAB-07",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.25",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-16",
+      "id_lab": "LAB-07",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.26",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-17",
+      "id_lab": "LAB-07",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.27",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-18",
+      "id_lab": "LAB-07",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.28",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-19",
+      "id_lab": "LAB-07",
+      "no_pc": 19,
+      "status": "MAINTENANCE",
+      "ip_address": "192.168.70.29",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-07-PC-20",
+      "id_lab": "LAB-07",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.70.30",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-01",
+      "id_lab": "LAB-08",
+      "no_pc": 1,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.11",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-02",
+      "id_lab": "LAB-08",
+      "no_pc": 2,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.12",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-03",
+      "id_lab": "LAB-08",
+      "no_pc": 3,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.13",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-04",
+      "id_lab": "LAB-08",
+      "no_pc": 4,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.14",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-05",
+      "id_lab": "LAB-08",
+      "no_pc": 5,
+      "status": "OCCUPIED",
+      "ip_address": "192.168.80.15",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-06",
+      "id_lab": "LAB-08",
+      "no_pc": 6,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.16",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-07",
+      "id_lab": "LAB-08",
+      "no_pc": 7,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.17",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-08",
+      "id_lab": "LAB-08",
+      "no_pc": 8,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.18",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-09",
+      "id_lab": "LAB-08",
+      "no_pc": 9,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.19",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-10",
+      "id_lab": "LAB-08",
+      "no_pc": 10,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.20",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-11",
+      "id_lab": "LAB-08",
+      "no_pc": 11,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.21",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-12",
+      "id_lab": "LAB-08",
+      "no_pc": 12,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.22",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-13",
+      "id_lab": "LAB-08",
+      "no_pc": 13,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.23",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-14",
+      "id_lab": "LAB-08",
+      "no_pc": 14,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.24",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-15",
+      "id_lab": "LAB-08",
+      "no_pc": 15,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.25",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-16",
+      "id_lab": "LAB-08",
+      "no_pc": 16,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.26",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-17",
+      "id_lab": "LAB-08",
+      "no_pc": 17,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.27",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-18",
+      "id_lab": "LAB-08",
+      "no_pc": 18,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.28",
+      "spek": {
+        "cpu": "AMD Ryzen 7 5700X",
+        "ram": "32 GB DDR4",
+        "ssd": "1 TB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-19",
+      "id_lab": "LAB-08",
+      "no_pc": 19,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.29",
+      "spek": {
+        "cpu": "Intel Core i7-12700",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    },
+    {
+      "id_pc": "LAB-08-PC-20",
+      "id_lab": "LAB-08",
+      "no_pc": 20,
+      "status": "AVAILABLE",
+      "ip_address": "192.168.80.30",
+      "spek": {
+        "cpu": "Intel Core i5-13400F",
+        "ram": "16 GB DDR4",
+        "ssd": "512 GB NVMe"
+      }
+    }
+  ],
+  "t_peminjaman": [
+    {
+      "id_pinjam": "PMJ-101",
+      "nim": "201080200075",
+      "nama": "Fajar Nugroho",
+      "id_pc": "LAB-06-PC-07",
+      "id_lab": "LAB-06",
+      "no_pc": 7,
+      "tgl_pinjam": "2026-07-10",
+      "jam_mulai": "08:00",
+      "jam_selesai": "11:00",
+      "keperluan": "Praktikum Mandiri",
+      "no_telp": "085625167946",
+      "status": "PENDING"
+    },
+    {
+      "id_pinjam": "PMJ-102",
+      "nim": "221080200061",
+      "nama": "Fajar Manurung",
+      "id_pc": "LAB-03-PC-20",
+      "id_lab": "LAB-03",
+      "no_pc": 20,
+      "tgl_pinjam": "2026-07-10",
+      "jam_mulai": "08:00",
+      "jam_selesai": "11:00",
+      "keperluan": "Riset AI",
+      "no_telp": "085673423931",
+      "status": "APPROVED"
+    },
+    {
+      "id_pinjam": "PMJ-103",
+      "nim": "201080200039",
+      "nama": "Pratama Lestari",
+      "id_pc": "LAB-05-PC-01",
+      "id_lab": "LAB-05",
+      "no_pc": 1,
+      "tgl_pinjam": "2026-07-10",
+      "jam_mulai": "08:00",
+      "jam_selesai": "11:00",
+      "keperluan": "Belajar Pemrograman",
+      "no_telp": "085647328265",
+      "status": "COMPLETED"
+    },
+    {
+      "id_pinjam": "PMJ-104",
+      "nim": "211080200007",
+      "nama": "Ony Susanto",
+      "id_pc": "LAB-04-PC-14",
+      "id_lab": "LAB-04",
+      "no_pc": 14,
+      "tgl_pinjam": "2026-07-10",
+      "jam_mulai": "08:00",
+      "jam_selesai": "11:00",
+      "keperluan": "Pengerjaan Tugas Akhir",
+      "no_telp": "081312600934",
+      "status": "COMPLETED"
+    },
+    {
+      "id_pinjam": "PMJ-105",
+      "nim": "201080200063",
+      "nama": "Randy Nasution",
+      "id_pc": "LAB-06-PC-04",
+      "id_lab": "LAB-06",
+      "no_pc": 4,
+      "tgl_pinjam": "2026-07-10",
+      "jam_mulai": "08:00",
+      "jam_selesai": "11:00",
+      "keperluan": "Praktikum Mandiri",
+      "no_telp": "085626395235",
+      "status": "COMPLETED"
+    }
+  ],
+  "t_audit_log": [
+    {
+      "id": "LOG-INIT",
+      "timestamp": "2026-07-10T14:30:19.223Z",
+      "user": "Admin Utama",
+      "action": "SYSTEM_START",
+      "details": "Inisialisasi sistem dengan 8 Laboratorium & 560 data Mahasiswa terdaftar (Angkatan 2020-2026)"
+    },
+    {
+      "id": "LOG-PMJ-1",
+      "timestamp": "2026-07-10T13:30:19.224Z",
+      "user": "Fajar Nugroho",
+      "action": "SUBMIT_PEMINJAMAN",
+      "details": "Mengajukan peminjaman PC-7 di LAB-06. Status: PENDING"
+    },
+    {
+      "id": "LOG-PMJ-2",
+      "timestamp": "2026-07-10T12:30:19.224Z",
+      "user": "Fajar Manurung",
+      "action": "SUBMIT_PEMINJAMAN",
+      "details": "Mengajukan peminjaman PC-20 di LAB-03. Status: APPROVED"
+    },
+    {
+      "id": "LOG-PMJ-3",
+      "timestamp": "2026-07-10T11:30:19.224Z",
+      "user": "Pratama Lestari",
+      "action": "SUBMIT_PEMINJAMAN",
+      "details": "Mengajukan peminjaman PC-1 di LAB-05. Status: COMPLETED"
+    },
+    {
+      "id": "LOG-PMJ-4",
+      "timestamp": "2026-07-10T10:30:19.224Z",
+      "user": "Ony Susanto",
+      "action": "SUBMIT_PEMINJAMAN",
+      "details": "Mengajukan peminjaman PC-14 di LAB-04. Status: COMPLETED"
+    },
+    {
+      "id": "LOG-PMJ-5",
+      "timestamp": "2026-07-10T09:30:19.224Z",
+      "user": "Randy Nasution",
+      "action": "SUBMIT_PEMINJAMAN",
+      "details": "Mengajukan peminjaman PC-4 di LAB-06. Status: COMPLETED"
+    }
+  ]
+}

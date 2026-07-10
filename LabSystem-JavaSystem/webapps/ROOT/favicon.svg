@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="60" fill="#0f172a"/>
+  <!-- Monitor base -->
+  <rect x="112" y="190" width="32" height="20" fill="#38bdf8"/>
+  <rect x="80" y="210" width="96" height="12" rx="4" fill="#38bdf8"/>
+  <!-- Monitor screen -->
+  <rect x="40" y="50" width="176" height="120" rx="12" fill="#38bdf8" stroke="#38bdf8" stroke-width="8"/>
+  <rect x="48" y="58" width="160" height="104" rx="6" fill="#1e293b"/>
+  <!-- Code brackets -->
+  <path d="M100 85 L75 110 L100 135 M156 85 L181 110 L156 135" stroke="#38bdf8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <path d="M140 80 L116 140" stroke="#38bdf8" stroke-width="12" stroke-linecap="round" fill="none"/>
+</svg>
