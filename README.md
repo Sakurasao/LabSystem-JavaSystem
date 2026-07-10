@@ -21,10 +21,9 @@ Selamat datang di kode sumber sistem portal peminjaman dan manajemen lab informa
 │       │   └── web.xml             <-- Deployment Descriptor (Mapping API & JSP Fallback)
 │       │
 │       ├── index.jsp               <-- Halaman utama Tomcat (Welcome File yang me-load React)
-│       ├── index.html              <-- Halaman utama lingkungan Node.js (Preview online)
 │       ├── database.json           <-- Penyimpanan data utama (JSON-based lightweight DB)
-│       ├── server.cjs              <-- Mock Express Server (Hanya digunakan untuk preview AI Studio)
-│       └── favicon.svg             <-- Favicon aplikasi
+│       └── favicon.svg.            <-- Favicon aplikasi
+│                    
 │
 └── run.bat                         <-- Batas Orchestrator (Cukup double-click untuk compile & run otomatis)
 ```
