@@ -19,7 +19,6 @@ Selamat datang di kode sumber sistem portal peminjaman dan manajemen lab informa
 │       │   │       └── util/       <-- DBConnection.java (Operasi I/O database.json)
 │       │   ├── /lib/               <-- Library JAR dependencies (gson-2.10.1.jar)
 │       │   └── web.xml             <-- Deployment Descriptor (Mapping API & JSP Fallback)
-│       │
 │       ├── index.jsp               <-- Halaman utama Tomcat (Welcome File yang me-load React)
 │       ├── database.json           <-- Penyimpanan data utama (JSON-based lightweight DB)
 │       └── favicon.svg.            <-- Favicon aplikasi
