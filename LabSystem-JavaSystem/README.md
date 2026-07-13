@@ -1,128 +1,84 @@
-# SISTEM MANAJEMEN PEMINJAMAN LAB INFORMATIKA
-**Versi: 4.0 - Admin-Student Separation Version (Portable Bundle)**
+# SISTEM PORTAL MANAJEMEN LAB INFORMATIKA
+**Versi: 5.0 - Portable JSON-Based Bundle (Zero-Installation & Offline Ready)**
 
-Selamat datang di kode sumber sistem portal peminjaman lab UMSIDA. Folder ini dirancang khusus untuk kemudahan instalasi (Zero-Installation / Portable One-Folder Bundle) berbasis **JDK 21**, **Tomcat 10**, **MariaDB Portable**, dan **Jakarta EE (Servlet/JSP)**.
+Selamat datang di kode sumber sistem portal peminjaman dan manajemen lab informatika. Sistem ini dirancang untuk kemudahan demonstrasi offline dan lokal tanpa memerlukan instalasi database server rumit seperti MariaDB atau MySQL. Aplikasi ini berjalan secara portable menggunakan **JDK 21**, **Apache Tomcat 10**, dan teknologi **Jakarta EE (Servlet/JSP)** yang dipadukan dengan frontend modern berbasis **React & Tailwind CSS**.
 
 ---
 
-### 📂 Struktur Direktori Portable
+### 📂 Struktur Direktori LabSystem-JavaSystem
 ```text
-/LabSystem_Portable/
+/LabSystem-JavaSystem/
 │
-├── /jdk-21/                        <-- JDK 21 Portable Binaries
-├── /apache-tomcat-10/              <-- Tomcat 10 Portable Server
-├── /mariadb-portable/              <-- MariaDB Portable Engine
 ├── /webapps/
 │   └── ROOT/
-│       ├── /student/               <-- UI Mahasiswa (denah_lab.jsp)
-│       ├── /admin/                 <-- UI Admin Control Center (panel_hardware.jsp)
-│       ├── /js/                    <-- AJAX Request Handler
-│       └── /WEB-INF/
-│           ├── /classes/           <-- Compiled Java (.class)
-│           │   └── com/lab/
-│           │       ├── controller/ <-- Servlets (StudentServlet, AdminServlet, ReportServlet)
-│           │       ├── dao/        <-- Data Access Objects (UserDAO, LabDAO, PeminjamanDAO, ReportDAO)
-│           │       └── util/       <-- DBConnection (HikariCP), PDFGenerator (iText)
-│           ├── /lib/               <-- JAR Dependencies
-│           └── web.xml             <-- Deployment Descriptor
-└── run.bat                         <-- Orchestrator Script (Double click untuk menjalankan semua servis)
+│       ├── /assets/                <-- Frontend terkompilasi (React JS & CSS Tailwind)
+│       ├── /WEB-INF/
+│       │   ├── /classes/           <-- Folder output kompilasi (.class)
+│       │   │   └── com/lab/
+│       │   │       ├── controller/ <-- ApiServlet.java (Endpoint API Request Handler)
+│       │   │       └── util/       <-- DBConnection.java (Operasi I/O database.json)
+│       │   ├── /lib/               <-- Library JAR dependencies (gson-2.10.1.jar)
+│       │   └── web.xml             <-- Deployment Descriptor (Mapping API & JSP Fallback)
+│       │
+│       ├── index.jsp               <-- Halaman utama Tomcat (Welcome File yang me-load React)
+│       ├── index.html              <-- Halaman utama lingkungan Node.js (Preview online)
+│       ├── database.json           <-- Penyimpanan data utama (JSON-based lightweight DB)
+│       ├── server.cjs              <-- Mock Express Server (Hanya digunakan untuk preview AI Studio)
+│       └── favicon.svg             <-- Favicon aplikasi
+│
+└── run.bat                         <-- Batas Orchestrator (Cukup double-click untuk compile & run otomatis)
 ```
 
 ---
 
-### 💾 Skema Database (MariaDB Portable)
-Jalankan script SQL berikut pada instance MariaDB Anda:
-
-```sql
-CREATE DATABASE IF NOT EXISTS db_lab_peminjaman;
-USE db_lab_peminjaman;
-
--- Table t_mahasiswa
-CREATE TABLE t_mahasiswa (
-    nim VARCHAR(12) PRIMARY KEY,
-    nama VARCHAR(100) NOT NULL,
-    email VARCHAR(100) NOT NULL,
-    telp VARCHAR(15) NOT NULL,
-    kelas VARCHAR(10) NOT NULL,
-    role ENUM('STUDENT', 'ASLAB') DEFAULT 'STUDENT'
-);
-
--- Table t_aslab (Admin Credentials)
-CREATE TABLE t_aslab (
-    id_aslab VARCHAR(10) PRIMARY KEY,
-    nim VARCHAR(12),
-    password VARCHAR(100) NOT NULL,
-    nama VARCHAR(100) NOT NULL,
-    FOREIGN KEY (nim) REFERENCES t_mahasiswa(nim) ON DELETE CASCADE
-);
-
--- Table t_lab
-CREATE TABLE t_lab (
-    id_lab VARCHAR(10) PRIMARY KEY,
-    nama_lab VARCHAR(100) NOT NULL,
-    status_lab ENUM('OPEN', 'CLOSED') DEFAULT 'OPEN'
-);
-
--- Table t_pc
-CREATE TABLE t_pc (
-    id_pc VARCHAR(20) PRIMARY KEY,
-    id_lab VARCHAR(10),
-    no_pc INT NOT NULL,
-    status ENUM('AVAILABLE', 'OCCUPIED', 'MAINTENANCE') DEFAULT 'AVAILABLE',
-    ip_address VARCHAR(15) NOT NULL,
-    spek_cpu VARCHAR(50) NOT NULL,
-    spek_ram VARCHAR(20) NOT NULL,
-    spek_ssd VARCHAR(20) NOT NULL,
-    FOREIGN KEY (id_lab) REFERENCES t_lab(id_lab) ON DELETE CASCADE
-);
-
--- Table t_peminjaman
-CREATE TABLE t_peminjaman (
-    id_pinjam VARCHAR(20) PRIMARY KEY,
-    nim VARCHAR(12),
-    id_pc VARCHAR(20),
-    tgl_pinjam DATE NOT NULL,
-    jam_mulai TIME NOT NULL,
-    jam_selesai TIME NOT NULL,
-    keperluan TEXT NOT NULL,
-    no_telp VARCHAR(15) NOT NULL,
-    status ENUM('PENDING', 'APPROVED', 'REJECTED', 'COMPLETED') DEFAULT 'PENDING',
-    FOREIGN KEY (nim) REFERENCES t_mahasiswa(nim),
-    FOREIGN KEY (id_pc) REFERENCES t_pc(id_pc)
-);
-```
+### 💾 Mekanisme Penyimpanan Data (database.json)
+Aplikasi ini menggunakan **JSON File-Based Database** (`database.json`) yang diletakkan di dalam folder `/webapps/ROOT/`. 
+- **DBConnection.java** membaca dan menulis langsung file `database.json` secara real-time.
+- **Keuntungan**:
+  1. **Zero-Setup**: Anda tidak perlu menginstall MySQL, PostgreSQL, atau MariaDB di komputer lokal.
+  2. **Mudah Dipindahkan**: Cukup salin seluruh folder ini ke laptop lain, jalankan `run.bat`, dan semua data peminjaman, lab, PC, dan aslab Anda akan tetap utuh.
+  3. **Kecepatan**: Sangat responsif untuk demonstrasi instan/offline.
 
 ---
 
-### 💻 Petunjuk Eksekusi run.bat (Orchestrator)
-Isi berkas `run.bat` di root folder:
-```batch
-@echo off
-title UMSIDA Lab Management System - Orchestrator
-echo [!] Memulai MariaDB Portable...
-start "" "%~dp0mariadb-portable\bin\mysqld.exe" --defaults-file="%~dp0mariadb-portable\my.ini" --standalone
+### 💻 Petunjuk Menjalankan di Lokal / Offline (Windows)
 
-echo [!] Memeriksa koneksi database...
-timeout /t 5
+Untuk menjalankan aplikasi ini secara lokal di komputer Anda, ikuti langkah mudah berikut:
 
-echo [!] Mendeploy aplikasi ke Tomcat...
-xcopy /s /y "%~dp0webapps\ROOT" "%~dp0apache-tomcat-10\webapps\ROOT\"
+1. **Siapkan JDK & Tomcat Portable** (Atau gunakan instalasi yang sudah ada di sistem Anda):
+   - Letakkan folder JDK Anda (namai foldernya `jdk21` atau `jdk`) satu folder dengan `run.bat`.
+   - Letakkan folder Apache Tomcat 10 Anda (namai foldernya `apache-tomcat` atau `tomcat`) satu folder dengan `run.bat`.
+   - *Alternatif*: Jika JDK dan Tomcat sudah terinstall di sistem Windows Anda dan terdaftar di Environment Variables (`JAVA_HOME` & `CATALINA_HOME`), file `run.bat` akan mendeteksinya secara otomatis!
 
-echo [!] Menjalankan Tomcat 10 Server...
-set "JAVA_HOME=%~dp0jdk-21"
-set "CATALINA_HOME=%~dp0apache-tomcat-10"
-call "%CATALINA_HOME%\bin\startup.bat"
+2. **Jalankan Aplikasi**:
+   - Double-click file `run.bat` di root direktori.
+   - Script akan otomatis mendownload library `gson-2.10.1.jar` jika belum ada di folder `lib`.
+   - Script akan mengkompilasi file-file Java Servlet (`ApiServlet.java` & `DBConnection.java`) ke dalam folder `classes`.
+   - Script akan melakukan deploy file ke folder Tomcat dan menjalankan server Tomcat.
 
-echo [✓] Sukses! Buka http://localhost:8080/ untuk mengakses Portal.
-pause
-```
+3. **Akses Aplikasi**:
+   - Buka browser dan ketik alamat: **`http://localhost:8080`**
+   - Anda siap melakukan demonstrasi secara offline penuh!
 
 ---
 
-### 📄 Catatan Integrasi dan Library (.jar)
-Pastikan library berikut berada di dalam folder `/WEB-INF/lib/` untuk kelancaran kompilasi:
-1. `mariadb-java-client-3.1.2.jar`
-2. `HikariCP-5.0.1.jar`
-3. `slf4j-api-2.0.7.jar` & `slf4j-simple-2.0.7.jar`
-4. `jakarta.servlet.jsp.jstl-3.0.1.jar` & `jakarta.servlet.jsp.jstl-api-3.0.0.jar`
-5. `itextpdf-5.5.13.3.jar` (Engine Cetak PDF Surat & Laporan)
+### 📄 Informasi Akun Default untuk Demo:
+- **Login Mahasiswa**: Gunakan salah satu NIM Mahasiswa yang ada di database (contoh: `251080200071`, `211080200045`, `261080200010`, dll).
+- **Login Aslab (Admin Control Center)**: 
+  - Masuk ke tab **Login Admin**.
+  - Masukkan NIM: **`admin`**
+  - Masukkan Password: **`admin`**
+  - Anda akan diarahkan ke Dashboard Control Center dengan fitur lengkap seperti: Monitoring PC secara realtime, mematikan/menyalakan PC, menyetujui peminjaman, dan cetak Berita Acara (Official Report).
+
+---
+
+### 🛠️ Fitur-Fitur Utama Aplikasi:
+1. **Interactive Lab Floor Plan**: Visualisasi layout komputer (PC) di setiap laboratorium dengan status warna (Hijau: Tersedia, Biru: Digunakan, Merah/Kuning: Maintenance/Offline).
+2. **Real-time Booking System**: Mahasiswa dapat memilih PC kosong, mengisi form peminjaman, dan mengajukan secara instan.
+3. **Admin & Aslab Control Center**: 
+   - Menyetujui atau menolak pengajuan peminjaman mahasiswa secara langsung.
+   - Fitur **Force Release** (membebaskan PC yang terpakai).
+   - Fitur **Shutdown PC / Sesi Berakhir** (mematikan PC yang melanggar ketentuan, otomatis mengubah status PC jadi OFFLINE dan membatalkan peminjaman aktif).
+   - Fitur **Mass Update** (mengubah status banyak PC sekaligus).
+   - Fitur **Network/Ping Testing**: Simulasi ping semua PC di lab untuk memonitoring kecepatan download, upload, latency, dan status koneksi secara real-time.
+4. **Cetak Berita Acara**: Cetak dokumen Berita Acara resmi (Official Report) secara rapi (cetak ramah printer/PDF) lengkap dengan tanda tangan Ketua Aslab dan Dosen Jaga.

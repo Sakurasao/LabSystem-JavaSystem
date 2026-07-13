@@ -4793,7 +4793,7 @@
     {
       "id_lab": "LAB-01",
       "nama_lab": "Laboratorium Rekayasa Perangkat Lunak (RPL)",
-      "status_lab": "OPEN"
+      "status_lab": "CLOSED"
     },
     {
       "id_lab": "LAB-02",
@@ -6826,6 +6826,13 @@
     }
   ],
   "t_audit_log": [
+    {
+      "id": "LOG-1783919376357-365",
+      "timestamp": "2026-07-13T05:09:36.357Z",
+      "user": "test",
+      "action": "MASTER_SWITCH",
+      "details": "Mengubah status akses Laboratorium Rekayasa Perangkat Lunak (RPL) menjadi [CLOSED]"
+    },
     {
       "id": "LOG-INIT",
       "timestamp": "2026-07-10T14:30:19.223Z",

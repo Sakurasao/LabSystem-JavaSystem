@@ -465,7 +465,7 @@ public class ApiServlet extends HttpServlet {
                 for (JsonElement e : labs) {
                     JsonObject lab = e.getAsJsonObject();
                     if (lab.get("id_lab").getAsString().equals(id)) {
-                        lab.addProperty("status_jaringan", body.get("status").getAsString());
+                        lab.addProperty("status_lab", body.get("status_lab").getAsString());
                     }
                 }
                 saveDb(db);
